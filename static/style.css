@@ -1,0 +1,120 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
+* {
+  padding: 0;
+  margin: 0;
+  max-width: 100vw;
+}
+
+body {
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+.dark-blue-bg {
+  background-color: #0b1d2a;
+}
+
+.dark-blue {
+  color: #0b1d2a;
+}
+
+.yellow {
+  background: #ffca39;
+}
+
+.height-100-vh {
+  min-height: 100vh;
+}
+
+.nav-menu {
+  position: -webkit-sticky;
+  position: sticky;
+  top: 72px;
+}
+
+.menu-active {
+  background-color: #2b71a3;
+  border-radius: 5px;
+}
+
+.nav-menu .nav-item:hover {
+  background-color: #163952;
+  border-radius: 5px;
+}
+
+.h4-style {
+  line-height: 1.25;
+  color: #0b1d2a;
+}
+
+.table-container {
+  max-height: 400px;
+  overflow-y: scroll;
+}
+
+.table-container table thead th {
+  position: -webkit-sticky;
+  position: sticky;
+  top: -1px;
+}
+
+.table-container table {
+  margin-bottom: 0 !important;
+}
+
+.nav-pills .nav-link.active, .nav-pills .show > .nav-link {
+  background: #20557b !important;
+}
+
+.table-sm {
+  font-size: 0.875rem;
+}
+
+.font-sm {
+  font-size: 0.875rem;
+}
+
+.table-fixed {
+  table-layout: fixed;
+}
+
+.btn-dark-blue {
+  background-color: #163952;
+  color: #ffffff;
+}
+
+.img-container {
+  max-width: 50px;
+  max-height: 50px;
+}
+
+.div-flex {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.div-flex h5 {
+  line-height: 50px;
+  vertical-align: middle;
+}
+
+.table thead {
+  color: #000;
+  border-color: #dfe0e1;
+}
+
+.table thead th {
+  background-color: #f8f9fa;
+  text-align: center !important;
+  vertical-align: middle !important;
+}
+
+thead th:nth-child(1), tbody th:nth-child(1) {
+  display: none;
+}
+
+.table-with-num thead th:nth-child(2) {
+  width: 35px;
+}
+/*# sourceMappingURL=style.css.map */

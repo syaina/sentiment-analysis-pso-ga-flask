@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sentimen Analisis Kabinet Indonesia Maju</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-+0n0xVW2eSR5OomGNYDnhzAbDsOXxcvSN1TPprVMTNDbiYZCxYbOOl7+AMvyTG2x" crossorigin="anonymous">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/js/bootstrap.bundle.min.js" integrity="sha384-gtEjrD/SeCtmISkJkNUaaKMoLD0//ElJ19smozuHV6z3Iehds+3Ulb9Bn9Plx0x4" crossorigin="anonymous"></script>
+    <!-- <link rel="stylesheet" href="style.css"> -->
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <div class="container-fluid">
+        <div class="row height-100-vh mt">
+          <div class="col-3 dark-blue-bg pt-5 px-3">
+            <ul class="nav flex-column mt-4 nav-menu">
+                <li class="nav-item">
+                    <a class="nav-link active link-light" aria-current="page" href="{{ url_for('show_index') }}">Beranda</a>
+                </li>
+                <li class="nav-item menu-active">
+                  <a class="nav-link link-light" href="{{ url_for('show_pengolahan_data') }}">Pengolahan Data</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link link-light" href="{{ url_for('show_fitur_seleksi') }}">Fitur Seleksi</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link link-light" href="{{ url_for('show_training_evaluasi') }}">Training dan Evaluasi</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link link-light" href="{{ url_for('show_prediksi_sentimen') }}">Prediksi Sentimen</a>
+                </li>
+                <!-- <li class="nav-item">
+                  <a class="nav-link link-dark disabled" href="#" tabindex="-1" aria-disabled="true">Disabled</a>
+                </li> -->
+              </ul>
+          </div>
+          <div class="col-9 pt-5 px-lg-5">
+            <div class="container mt-4">
+                <ul class="nav nav-pills mb-3" id="pills-tab" role="tablist">
+                    <li class="nav-item" role="presentation">
+                        <button class="nav-link active dark-blue" id="pills-one-tab" data-bs-toggle="pill" data-bs-target="#pills-one" type="button" role="tab" aria-controls="pills-one" aria-selected="true">Preprocessing</button>
+                    </li>
+                    <li class="nav-item" role="presentation">
+                        <button class="nav-link dark-blue" id="pills-two-tab" data-bs-toggle="pill" data-bs-target="#pills-two" type="button" role="tab" aria-controls="pills-two" aria-selected="false">Word Embedding</button>
+                    </li>
+                </ul>
+                <div class="tab-content mt-5" id="pills-tabContent">
+                    <div class="tab-pane fade show active" id="pills-one" role="tabpanel" aria-labelledby="pills-one-tab">
+                        <div class="mb-5">
+                            <h4>Cleansing</h4>
+                            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi fugiat repellat cumque, tempora deserunt minima assumenda obcaecati, veritatis fuga doloremque quam nobis dolor nulla laudantium sunt delectus vero repellendus molestias.</p>
+
+                            <div class="table-container">
+                                {{ cleansing|safe }}  
+                            </div>
+                        </div>
+
+                        <div class="mb-5">
+                            <h4>Case Folding</h4>
+                            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi fugiat repellat cumque, tempora deserunt minima assumenda obcaecati, veritatis fuga doloremque quam nobis dolor nulla laudantium sunt delectus vero repellendus molestias.</p>
+
+                            <div class="table-container">
+                               {{ case_folding|safe }}
+                            </div>
+                        </div>
+                        
+                        <div class="mb-5">
+                            <h4>Normalize Text</h4>
+                            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi fugiat repellat cumque, tempora deserunt minima assumenda obcaecati, veritatis fuga doloremque quam nobis dolor nulla laudantium sunt delectus vero repellendus molestias.</p>
+
+                            <div class="table-container">
+                                {{ normalize_text|safe }}
+                            </div>
+                        </div>
+
+                        <div class="mb-5">
+                            <h4>Tokenization</h4>
+                            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi fugiat repellat cumque, tempora deserunt minima assumenda obcaecati, veritatis fuga doloremque quam nobis dolor nulla laudantium sunt delectus vero repellendus molestias.</p>
+
+                            <div class="table-container">
+                                {{ tokenization|safe }}
+                            </div>
+                        </div>
+
+                        <div class="mb-5">
+                            <h4>Stopword Removal</h4>
+                            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi fugiat repellat cumque, tempora deserunt minima assumenda obcaecati, veritatis fuga doloremque quam nobis dolor nulla laudantium sunt delectus vero repellendus molestias.</p>
+
+                            <div class="table-container">
+                                {{ stopword_removal|safe }}
+                            </div>
+                        </div>
+
+                    </div>
+
+                    <div class="tab-pane fade" id="pills-two" role="tabpanel" aria-labelledby="pills-two-tab">
+                        <div class="mb-5">
+                            <h4>Hyperparameter yang Diuji</h4>
+                            <p>dimensi: 100, 150, 200, 250, 300, 350
+                                <br>window: 5, 10, 15, 20, 25, 26, 27, 30
+                                <br>epoch: 10, 20, 30, 40, 50, 60
+                            </p>
+                        </div>
+
+                        <div class="mb-5">
+                            <h4>Pengujian Dimensi</h4>
+                            <p>Ukuran dimensi terbaik pada penelitian ini sebesar 200 dengan akurasi sebesar 84,91%, <em>recall</em> 84,90%, <em>precision</em>	84,83%, dan <em>f1 score</em> 84,80%</p>
+
+                            <div class="text-center">
+                                {{ dimensi_w2v|safe }}
+                            </div>
+                        </div>
+
+                        <div class="mb-5">
+                            <h4>Pengujian Window</h4>
+                            <p>Ukuran window terbaik pada penelitian ini sebesar 25 dengan akurasi sebesar 84,72%, <em>recall</em> 84,71%, <em>precision</em> 84,70%, dan <em>f1 score</em> 84,66%</p>
+
+                            <div class="text-center">
+                                {{ window_w2v|safe }}
+                            </div>
+                        </div>
+                        <div class="mb-5">
+                            <h4>Pengujian Epoch</h4>
+                            <p>Ukuran epoch terbaik pada penelitian ini sebesar 50 dengan akurasi sebesar 89,46%, <em>recall</em> 89,46%, <em>precision</em> 89,46%, dan <em>f1 score</em> 89,42%</p>
+
+                            <div class="text-center">
+                                {{ epoch_w2v|safe }}
+                            </div>
+                        </div>
+
+                        <div class="mb-5">
+                            <h4>Sentence to Vector</h4>
+                            <p>Setiap kalimat dari hasil preprocessing dikonversi menjadi vektor hasil Word sebagai data latih</p>
+                            <div class="table-container text-center">
+                                {{ data_train|safe }}
+                            </div>
+                        </div>
+
+                        <div class="mb-5">
+                            <h4>Similarity Word</h4>
+                            <p>Mengecek kata-kata yang memiliki hubungan terdekat dengan kata target</p>
+                            <form class="form-floating">
+                                <input type="text" class="form-control" id="floatingInputValue"
+                                placeholder="Masukkan Kata">
+                                <label for="floatingInputValue">Masukkan Kata</label>
+                                <button type="submit" class="btn btn-dark-blue mt-2">Enter</button>
+                            </form>
+                        </div>
+
+                        <!-- <div class="mb-5">
+                            <h4>Word to Vector</h4>
+                            <p>Kalimat pada dataset hasil preprocessing dikonversi menjadi vektor hasil Word2Vec.</p>
+                            
+                            <div class="text-center">
+                                {{ data_train|safe }}
+                            </div>
+                        </div> -->
+                    </div>
+                </div>
+            </div>
+          </div>
+        </div>
+    </div>
+</body>

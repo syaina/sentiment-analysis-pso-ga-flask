@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sentimen Analisis Kabinet Indonesia Maju</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-+0n0xVW2eSR5OomGNYDnhzAbDsOXxcvSN1TPprVMTNDbiYZCxYbOOl7+AMvyTG2x" crossorigin="anonymous">
+    <link rel="stylesheet" href="/static/style.css">
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <div class="container-fluid">
+        <div class="row height-100-vh mt">
+          <div class="col-3 dark-blue-bg pt-5 px-3">
+            <ul class="nav flex-column mt-4 nav-menu">
+                <li class="nav-item menu-active">
+                    <a class="nav-link active link-light" aria-current="page" href="{{ url_for('show_index') }}">Beranda</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link link-light" href="{{ url_for('show_pengolahan_data') }}">Pengolahan Data</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link link-light" href="{{ url_for('show_fitur_seleksi') }}">Fitur Seleksi</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link link-light" href="{{ url_for('show_training_evaluasi') }}">Training dan Evaluasi</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link link-light" href="{{ url_for('show_prediksi_sentimen') }}">Prediksi Sentimen</a>
+                </li>
+                <!-- <li class="nav-item">
+                  <a class="nav-link link-dark disabled" href="#" tabindex="-1" aria-disabled="true">Disabled</a>
+                </li> -->
+              </ul>
+          </div>
+          <div class="col pt-5 px-lg-5">
+            <div class="container mt-4">
+              <h3 class="text-center text-wrap h4-style fw-bold pb-4 ">Analisis Sentimen Kabinet Indonesia Maju dalam Menangani COVID-19 Menggunakan <em>Feature Selection Particle Swarm Optimization</em> dan <em>Genetic Algorithm</em></h3>
+            </div>
+
+            <div class="container mt-4 mb-5">
+              <h4>Dataset</h4>
+              <p>Terdiri dari {{ row }} baris dan {{ col }} kolom</p>
+              <div class="table-container">
+                {{ table|safe }}
+              </div>
+              <!-- <div class="table-container">
+                <table class="table table-sm table-responsive table-bordered">
+                  <thead class="table-light text-center">       
+                    <tr>
+                      <th>created_at</th>
+                      <th>full_text</th>
+                      <th>sentiment</th>
+                    </tr>
+                  </thead>
+                  <tbody>
+                    <tr>
+                      <td>2020-12-31T16:19:19+00:00</td>
+                      <td>Terimakasih 2020, terimakasih covid-19. Tetap semangat menunggu bansos cair di 2021. menteri baru kan yak? ðŸ˜</td>
+                      <td>1</td>
+                    </tr>
+                    <tr>
+                      <td>2020-12-31T06:02:42+00:00</td>
+                      <td>"@LisaAmartatara3 Semangat mak....tapi janji nanti klo udah sembuh jgn jadi kadrun dan mak pepes ya.... krn semenjak sandiaga jadi menteri terkena covid,
+                        mungkin kala itu si mak lagi galau dan badan tdk stabil akhirnya si virus gampang nyerang"</td>
+                      <td>0</td>
+                    </tr>
+                    <tr>
+                      <td>2020-09-22</td>
+                      <td>Ex menteri Sosial yg tertangkap karena kasus suap bansos untuk korban covid-19 yang buka suara anak presiden di suatu negara entah berantah yang sempat disebut ikut andil alih dalam â€˜suap bansosâ€™.</td>
+                      <td>1</td>
+                    </tr>
+                    <tr>
+                      <td>2020-09-22</td>
+                      <td>@tomlembong Jgn panik, tinggal minta @mohmahfudmd konferensi pers bahwa COVID-19 dibubarkan oleh negara sesuai SKB menteri krn tidak memiliki LEGAL STANDING</td>
+                      <td>0</td>
+                    </tr>
+                    <tr>
+                      <td>2020-09-22</td>
+                      <td>"@budhiomiyage @susipudjiastuti Kalo kata menteri yg selalu eksis itu adalah duit jadi gak usah panik masalah covid.
+   
+                        Bikin peraturan gak tegas udah tau kebanyakan rakyatnya ndablek2 masalah protokol kesehatan..
+                        
+                        Mau sampe kapan begini ðŸ¤”"</td>
+                      <td>0</td>
+                    </tr>
+                  </tbody>
+                </table>
+              </div> -->
+            </div>
+
+            <div class="container mb-5">
+              <h4>Abstrak</h4>
+              <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Alias tempore minus amet hic, quia molestiae blanditiis facilis, et voluptas porro eveniet earum assumenda vel. Atque molestias quae molestiae sapiente provident. Omnis architecto dolore asperiores sequi tenetur, consectetur non dolor accusantium saepe alias eos magni iusto quae fuga nihil accusamus, eveniet voluptatibus itaque sapiente voluptatum. Officia, aut deleniti. Eos numquam nihil praesentium non cumque amet sapiente repellat animi. Fugit rerum nobis sit aliquam, commodi consequuntur fuga dignissimos, quo animi dicta, omnis atque? Eum, sapiente ex dignissimos, in non iusto ullam ipsa, maxime illo odit tenetur aut nihil veniam ad nulla soluta temporibus officiis vitae! A velit optio tempora quaerat! Nesciunt, a necessitatibus, ea architecto animi iure, sunt sequi sapiente unde beatae repellat reprehenderit quae! Quo nemo possimus facere corrupti aspernatur, alias quos sit asperiores ab amet voluptates consequuntur perspiciatis dolorem accusamus vel temporibus tenetur, in libero placeat, obcaecati magnam deleniti quisquam debitis. Repudiandae necessitatibus accusantium deleniti tempora dolores ut assumenda optio blanditiis praesentium? Molestiae, explicabo nam? Voluptate quidem ipsa aspernatur eveniet ex delectus animi dignissimos beatae praesentium numquam, recusandae dicta saepe optio modi fugit natus corrupti consequuntur molestias obcaecati pariatur quis, maxime temporibus. Odio consectetur ipsum autem, quibusdam blanditiis quia tenetur tempore optio, repudiandae nemo aspernatur sequi reiciendis in rem vel voluptate delectus asperiores earum at, sapiente corrupti explicabo odit modi. Omnis, ducimus vel odit libero necessitatibus dolorum non delectus ut repudiandae enim laboriosam aliquid quas placeat consectetur. Ea officiis amet laborum accusamus numquam nulla alias iusto facilis perspiciatis repudiandae sed necessitatibus nobis deleniti fugiat beatae delectus, at fuga nihil ipsam neque molestias. Voluptas possimus laboriosam veritatis temporibus iure repellendus nesciunt, molestiae eius reiciendis excepturi iste magnam dicta ullam! Distinctio est quos, amet a sapiente dolorem et, adipisci nostrum natus, nobis cupiditate qui iste illo fugiat id asperiores alias rerum quas!</p>
+            </div>
+
+            <div class="container mb-5">
+              <h4>Tentang Penulis</h4>
+              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Incidunt labore, sit nisi error ad quaerat maxime hic sint, qui consequatur a, recusandae deleniti dolor nostrum animi illum. Sapiente, quod itaque.</p>
+            </div>
+          </div>
+        </div>
+    </div>
+</body>
+</html>

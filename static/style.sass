@@ -1,0 +1,107 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap')
+
+* 
+    padding: 0
+    margin: 0
+    max-width: 100vw
+
+
+$white: #ffffff
+$primary: #0b1d2a
+$black: #353535
+$butterscotch: #ffca39
+$dark-blue-grey-0: rgba(11, 29, 42, 0)
+$spacer: 16px
+
+body 
+    box-sizing: border-box
+
+.dark-blue-bg 
+    background-color: $primary
+
+.dark-blue
+    color: $primary
+
+.yellow
+    background: $butterscotch
+
+.height-100-vh
+    min-height: 100vh
+
+.nav-menu
+    position: sticky
+    top: 72px
+
+.menu-active
+    background-color: lighten($primary, 30%)
+    border-radius: 5px
+
+.nav-menu .nav-item:hover
+    background-color: lighten($primary, 10%)  
+    border-radius: 5px 
+
+
+.h4-style
+    line-height: 1.25
+    color: $primary
+
+.table-container
+    max-height: 400px
+    overflow-y: scroll
+
+    table thead th
+        position: sticky
+        top: -1px
+    
+    table
+        margin-bottom: 0 !important
+
+.nav-pills .nav-link.active, .nav-pills .show>.nav-link
+    background: lighten($primary, 20%) !important
+
+.table-sm
+    font-size: 1rem * 0.875
+
+.font-sm
+    font-size: 1rem * 0.875
+
+.table-fixed
+    table-layout: fixed
+
+.btn-dark-blue
+    background-color: lighten($primary, 10%)
+    color: $white
+
+.img-container
+    max-width: 50px
+    max-height: 50px
+
+.div-flex
+    display: flex
+
+    h5
+        line-height: 50px
+        vertical-align: middle
+
+.table thead
+    $bs-table-bg: #f8f9fa
+    $bs-table-striped-bg: #ecedee
+    $bs-table-striped-color: #000
+    $bs-table-active-bg: #dfe0e1
+    $bs-table-active-color: #000
+    $bs-table-hover-bg: #e5e6e7
+    $bs-table-hover-color: #000
+    color: #000
+    border-color: #dfe0e1
+    th
+        background-color: $bs-table-bg
+        text-align: center !important
+        vertical-align: middle !important
+
+thead th:nth-child(1), tbody th:nth-child(1)
+    display: none
+
+.table-with-num
+    thead th:nth-child(2)
+        width: 35px
+
