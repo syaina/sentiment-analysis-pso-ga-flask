@@ -1048,3 +1048,948 @@
 2021-06-27 03:28:43,666 - werkzeug - INFO -  * Restarting with stat
 2021-06-27 03:28:47,354 - gensim.models.utils_any2vec - INFO - loading projection weights from <codecs.StreamReaderWriter object at 0x0A4FEC28>
 2021-06-27 03:28:48,901 - gensim.models.utils_any2vec - INFO - loaded (3683, 200) matrix from <codecs.StreamReaderWriter object at 0x0A4FEC28>
+2021-06-27 15:43:06,614 - gensim.models.utils_any2vec - INFO - loading projection weights from <codecs.StreamReaderWriter object at 0x05461880>
+2021-06-27 15:43:08,282 - gensim.models.utils_any2vec - INFO - loaded (3683, 200) matrix from <codecs.StreamReaderWriter object at 0x05461880>
+2021-06-27 15:43:11,529 - werkzeug - INFO -  * Restarting with stat
+2021-06-27 15:43:16,540 - gensim.models.utils_any2vec - INFO - loading projection weights from <codecs.StreamReaderWriter object at 0x04204358>
+2021-06-27 15:43:18,027 - gensim.models.utils_any2vec - INFO - loaded (3683, 200) matrix from <codecs.StreamReaderWriter object at 0x04204358>
+2021-06-27 15:58:15,203 - werkzeug - INFO -  * Detected change in 'D:\\Menuju S.Kom\\skripsi-app\\env\\lib\\site-packages\\sklearn\\_distributor_init.py', reloading
+2021-06-27 15:59:17,146 - werkzeug - INFO -  * Restarting with stat
+2021-06-27 16:00:35,705 - gensim.models.utils_any2vec - INFO - loading projection weights from <codecs.StreamReaderWriter object at 0x044742F8>
+2021-06-27 16:00:38,454 - gensim.models.utils_any2vec - INFO - loaded (3683, 200) matrix from <codecs.StreamReaderWriter object at 0x044742F8>
+2021-06-27 16:04:41,764 - werkzeug - INFO -  * Detected change in 'D:\\Menuju S.Kom\\skripsi-app\\app.py', reloading
+2021-06-27 16:04:42,196 - werkzeug - INFO -  * Restarting with stat
+2021-06-27 16:04:45,930 - gensim.models.utils_any2vec - INFO - loading projection weights from <codecs.StreamReaderWriter object at 0x0BA00B20>
+2021-06-27 16:04:47,670 - gensim.models.utils_any2vec - INFO - loaded (3683, 200) matrix from <codecs.StreamReaderWriter object at 0x0BA00B20>
+2021-06-27 16:04:53,842 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 16:04:53] "GET /prediksi-sentimen HTTP/1.1" 200 -
+2021-06-27 16:04:59,510 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 16:04:59] "GET /static/style.css HTTP/1.1" 200 -
+2021-06-27 16:05:01,915 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 16:05:01] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2021-06-27 16:14:10,980 - werkzeug - INFO -  * Detected change in 'D:\\Menuju S.Kom\\skripsi-app\\app.py', reloading
+2021-06-27 16:14:14,162 - werkzeug - INFO -  * Restarting with stat
+2021-06-27 16:14:52,205 - gensim.models.utils_any2vec - INFO - loading projection weights from <codecs.StreamReaderWriter object at 0x026F5148>
+2021-06-27 16:14:54,176 - gensim.models.utils_any2vec - INFO - loaded (3683, 200) matrix from <codecs.StreamReaderWriter object at 0x026F5148>
+2021-06-27 16:14:54,899 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 16:14:54] "[35m[1mGET /prediksi-sentimen HTTP/1.1[0m" 500 -
+2021-06-27 16:14:56,610 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 16:14:56] "GET /prediksi-sentimen?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2021-06-27 16:14:56,611 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 16:14:56] "GET /prediksi-sentimen?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2021-06-27 16:14:56,721 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 16:14:56] "GET /prediksi-sentimen?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2021-06-27 16:14:57,191 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 16:14:57] "GET /prediksi-sentimen?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+2021-06-27 16:14:58,875 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 16:14:58] "GET /prediksi-sentimen?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2021-06-27 16:15:23,308 - werkzeug - INFO -  * Detected change in 'D:\\Menuju S.Kom\\skripsi-app\\app.py', reloading
+2021-06-27 16:15:23,549 - werkzeug - INFO -  * Restarting with stat
+2021-06-27 16:15:27,572 - gensim.models.utils_any2vec - INFO - loading projection weights from <codecs.StreamReaderWriter object at 0x04F46190>
+2021-06-27 16:15:30,085 - gensim.models.utils_any2vec - INFO - loaded (3683, 200) matrix from <codecs.StreamReaderWriter object at 0x04F46190>
+2021-06-27 16:15:52,519 - werkzeug - INFO -  * Detected change in 'D:\\Menuju S.Kom\\skripsi-app\\app.py', reloading
+2021-06-27 16:15:52,755 - werkzeug - INFO -  * Restarting with stat
+2021-06-27 16:15:56,206 - werkzeug - INFO -  * Restarting with stat
+2021-06-27 16:15:59,964 - gensim.models.utils_any2vec - INFO - loading projection weights from <codecs.StreamReaderWriter object at 0x04203328>
+2021-06-27 16:16:01,655 - gensim.models.utils_any2vec - INFO - loaded (3683, 200) matrix from <codecs.StreamReaderWriter object at 0x04203328>
+2021-06-27 16:16:01,718 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 16:16:01] "GET /prediksi-sentimen HTTP/1.1" 200 -
+2021-06-27 16:16:01,864 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 16:16:01] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2021-06-27 16:16:06,450 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 16:16:06] "[33mPOST /prediksi-sentimen.html HTTP/1.1[0m" 404 -
+2021-06-27 16:16:48,022 - werkzeug - INFO -  * Detected change in 'D:\\Menuju S.Kom\\skripsi-app\\app.py', reloading
+2021-06-27 16:16:48,274 - werkzeug - INFO -  * Restarting with stat
+2021-06-27 16:16:51,816 - gensim.models.utils_any2vec - INFO - loading projection weights from <codecs.StreamReaderWriter object at 0x0B879208>
+2021-06-27 16:16:53,357 - gensim.models.utils_any2vec - INFO - loaded (3683, 200) matrix from <codecs.StreamReaderWriter object at 0x0B879208>
+2021-06-27 16:17:19,915 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 16:17:19] "GET /prediksi-sentimen HTTP/1.1" 200 -
+2021-06-27 16:17:20,047 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 16:17:20] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2021-06-27 16:17:25,013 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 16:17:25] "[33mPOST /prediksi-sentimen.html HTTP/1.1[0m" 404 -
+2021-06-27 16:17:44,574 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 16:17:44] "GET /prediksi-sentimen HTTP/1.1" 200 -
+2021-06-27 16:17:44,684 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 16:17:44] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2021-06-27 16:17:47,584 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 16:17:47] "[35m[1mPOST /prediksi-sentimen HTTP/1.1[0m" 500 -
+2021-06-27 16:17:47,699 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 16:17:47] "GET /prediksi-sentimen?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2021-06-27 16:17:47,769 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 16:17:47] "GET /prediksi-sentimen?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2021-06-27 16:17:47,886 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 16:17:47] "GET /prediksi-sentimen?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2021-06-27 16:17:48,125 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 16:17:48] "GET /prediksi-sentimen?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+2021-06-27 16:17:48,377 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 16:17:48] "GET /prediksi-sentimen?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2021-06-27 16:18:13,112 - werkzeug - INFO -  * Detected change in 'D:\\Menuju S.Kom\\skripsi-app\\app.py', reloading
+2021-06-27 16:18:13,611 - werkzeug - INFO -  * Restarting with stat
+2021-06-27 16:18:17,289 - gensim.models.utils_any2vec - INFO - loading projection weights from <codecs.StreamReaderWriter object at 0x05545850>
+2021-06-27 16:18:18,890 - gensim.models.utils_any2vec - INFO - loaded (3683, 200) matrix from <codecs.StreamReaderWriter object at 0x05545850>
+2021-06-27 16:18:18,968 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 16:18:18] "POST /prediksi-sentimen HTTP/1.1" 200 -
+2021-06-27 16:18:19,043 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 16:18:19] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2021-06-27 16:19:15,088 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 16:19:15] "POST /prediksi-sentimen HTTP/1.1" 200 -
+2021-06-27 16:19:15,378 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 16:19:15] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2021-06-27 16:21:25,779 - werkzeug - INFO -  * Detected change in 'D:\\Menuju S.Kom\\skripsi-app\\app.py', reloading
+2021-06-27 16:21:26,007 - werkzeug - INFO -  * Restarting with stat
+2021-06-27 16:21:31,100 - gensim.models.utils_any2vec - INFO - loading projection weights from <codecs.StreamReaderWriter object at 0x026F5598>
+2021-06-27 16:21:33,745 - gensim.models.utils_any2vec - INFO - loaded (3683, 200) matrix from <codecs.StreamReaderWriter object at 0x026F5598>
+2021-06-27 16:21:35,768 - werkzeug - INFO -  * Detected change in 'D:\\Menuju S.Kom\\skripsi-app\\app.py', reloading
+2021-06-27 16:21:36,141 - werkzeug - INFO -  * Restarting with stat
+2021-06-27 16:21:40,434 - gensim.models.utils_any2vec - INFO - loading projection weights from <codecs.StreamReaderWriter object at 0x0B9CDB38>
+2021-06-27 16:21:42,124 - gensim.models.utils_any2vec - INFO - loaded (3683, 200) matrix from <codecs.StreamReaderWriter object at 0x0B9CDB38>
+2021-06-27 16:21:42,462 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 16:21:42] "GET /prediksi-sentimen HTTP/1.1" 200 -
+2021-06-27 16:21:42,515 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 16:21:42] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2021-06-27 16:22:02,324 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 16:22:02] "POST /prediksi-sentimen HTTP/1.1" 200 -
+2021-06-27 16:22:02,401 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 16:22:02] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2021-06-27 16:22:02,743 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 16:22:02] "GET /static/sad.png HTTP/1.1" 200 -
+2021-06-27 16:25:58,418 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 16:25:58] "[35m[1mPOST /prediksi-sentimen HTTP/1.1[0m" 500 -
+2021-06-27 16:25:58,494 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 16:25:58] "GET /prediksi-sentimen?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2021-06-27 16:25:58,510 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 16:25:58] "GET /prediksi-sentimen?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2021-06-27 16:25:58,712 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 16:25:58] "GET /prediksi-sentimen?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2021-06-27 16:25:59,102 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 16:25:59] "GET /prediksi-sentimen?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+2021-06-27 16:25:59,148 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 16:25:59] "GET /prediksi-sentimen?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2021-06-27 16:26:07,104 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 16:26:07] "POST /prediksi-sentimen HTTP/1.1" 200 -
+2021-06-27 16:26:07,306 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 16:26:07] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2021-06-27 16:26:07,363 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 16:26:07] "[36mGET /static/sad.png HTTP/1.1[0m" 304 -
+2021-06-27 16:26:41,818 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 16:26:41] "POST /prediksi-sentimen HTTP/1.1" 200 -
+2021-06-27 16:26:41,906 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 16:26:41] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2021-06-27 16:26:41,994 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 16:26:41] "[36mGET /static/sad.png HTTP/1.1[0m" 304 -
+2021-06-27 16:26:46,744 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 16:26:46] "POST /prediksi-sentimen HTTP/1.1" 200 -
+2021-06-27 16:26:46,967 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 16:26:46] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2021-06-27 16:26:47,003 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 16:26:47] "[36mGET /static/sad.png HTTP/1.1[0m" 304 -
+2021-06-27 16:26:59,022 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 16:26:59] "POST /prediksi-sentimen HTTP/1.1" 200 -
+2021-06-27 16:26:59,325 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 16:26:59] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2021-06-27 16:26:59,482 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 16:26:59] "[36mGET /static/sad.png HTTP/1.1[0m" 304 -
+2021-06-27 16:27:03,414 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 16:27:03] "POST /prediksi-sentimen HTTP/1.1" 200 -
+2021-06-27 16:27:03,670 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 16:27:03] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2021-06-27 16:27:03,820 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 16:27:03] "[36mGET /static/sad.png HTTP/1.1[0m" 304 -
+2021-06-27 16:27:17,685 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 16:27:17] "GET /prediksi-sentimen HTTP/1.1" 200 -
+2021-06-27 16:27:17,753 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 16:27:17] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2021-06-27 16:33:33,109 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 16:33:33] "POST /prediksi-sentimen HTTP/1.1" 200 -
+2021-06-27 16:33:33,346 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 16:33:33] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2021-06-27 16:33:33,562 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 16:33:33] "GET /static/happy.png HTTP/1.1" 200 -
+2021-06-27 16:33:48,471 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 16:33:48] "POST /prediksi-sentimen HTTP/1.1" 200 -
+2021-06-27 16:33:48,606 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 16:33:48] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2021-06-27 16:33:48,653 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 16:33:48] "[36mGET /static/happy.png HTTP/1.1[0m" 304 -
+2021-06-27 16:33:53,899 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 16:33:53] "POST /prediksi-sentimen HTTP/1.1" 200 -
+2021-06-27 16:33:54,022 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 16:33:54] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2021-06-27 16:33:54,323 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 16:33:54] "[36mGET /static/happy.png HTTP/1.1[0m" 304 -
+2021-06-27 16:33:55,602 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 16:33:55] "POST /prediksi-sentimen HTTP/1.1" 200 -
+2021-06-27 16:33:55,704 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 16:33:55] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2021-06-27 16:33:55,855 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 16:33:55] "[36mGET /static/happy.png HTTP/1.1[0m" 304 -
+2021-06-27 16:33:56,753 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 16:33:56] "POST /prediksi-sentimen HTTP/1.1" 200 -
+2021-06-27 16:33:57,010 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 16:33:57] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2021-06-27 16:33:57,108 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 16:33:57] "[36mGET /static/happy.png HTTP/1.1[0m" 304 -
+2021-06-27 16:34:07,555 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 16:34:07] "POST /prediksi-sentimen HTTP/1.1" 200 -
+2021-06-27 16:34:07,656 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 16:34:07] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2021-06-27 16:34:07,757 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 16:34:07] "[36mGET /static/happy.png HTTP/1.1[0m" 304 -
+2021-06-27 16:34:13,315 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 16:34:13] "POST /prediksi-sentimen HTTP/1.1" 200 -
+2021-06-27 16:34:13,401 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 16:34:13] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2021-06-27 16:34:13,536 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 16:34:13] "[36mGET /static/happy.png HTTP/1.1[0m" 304 -
+2021-06-27 16:34:17,789 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 16:34:17] "POST /prediksi-sentimen HTTP/1.1" 200 -
+2021-06-27 16:34:17,868 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 16:34:17] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2021-06-27 16:34:18,041 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 16:34:18] "[36mGET /static/happy.png HTTP/1.1[0m" 304 -
+2021-06-27 16:34:35,974 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 16:34:35] "POST /prediksi-sentimen HTTP/1.1" 200 -
+2021-06-27 16:34:36,061 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 16:34:36] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2021-06-27 16:34:36,160 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 16:34:36] "[36mGET /static/happy.png HTTP/1.1[0m" 304 -
+2021-06-27 16:34:40,580 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 16:34:40] "POST /prediksi-sentimen HTTP/1.1" 200 -
+2021-06-27 16:34:40,736 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 16:34:40] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2021-06-27 16:34:40,798 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 16:34:40] "[36mGET /static/happy.png HTTP/1.1[0m" 304 -
+2021-06-27 16:34:42,551 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 16:34:42] "POST /prediksi-sentimen HTTP/1.1" 200 -
+2021-06-27 16:34:42,643 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 16:34:42] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2021-06-27 16:34:42,763 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 16:34:42] "[36mGET /static/happy.png HTTP/1.1[0m" 304 -
+2021-06-27 16:34:45,883 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 16:34:45] "POST /prediksi-sentimen HTTP/1.1" 200 -
+2021-06-27 16:34:45,986 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 16:34:45] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2021-06-27 16:34:46,116 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 16:34:46] "[36mGET /static/happy.png HTTP/1.1[0m" 304 -
+2021-06-27 16:34:59,088 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 16:34:59] "POST /prediksi-sentimen HTTP/1.1" 200 -
+2021-06-27 16:34:59,389 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 16:34:59] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2021-06-27 16:34:59,393 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 16:34:59] "[36mGET /static/happy.png HTTP/1.1[0m" 304 -
+2021-06-27 16:35:19,913 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 16:35:19] "POST /prediksi-sentimen HTTP/1.1" 200 -
+2021-06-27 16:35:20,001 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 16:35:20] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2021-06-27 16:35:20,114 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 16:35:20] "[36mGET /static/happy.png HTTP/1.1[0m" 304 -
+2021-06-27 16:35:22,527 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 16:35:22] "POST /prediksi-sentimen HTTP/1.1" 200 -
+2021-06-27 16:35:22,611 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 16:35:22] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2021-06-27 16:35:22,725 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 16:35:22] "[36mGET /static/happy.png HTTP/1.1[0m" 304 -
+2021-06-27 16:35:54,144 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 16:35:54] "POST /prediksi-sentimen HTTP/1.1" 200 -
+2021-06-27 16:35:54,323 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 16:35:54] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2021-06-27 16:35:54,416 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 16:35:54] "[36mGET /static/sceptic.png HTTP/1.1[0m" 304 -
+2021-06-27 16:35:59,999 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 16:35:59] "POST /prediksi-sentimen HTTP/1.1" 200 -
+2021-06-27 16:36:00,262 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 16:36:00] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2021-06-27 16:36:00,562 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 16:36:00] "[36mGET /static/sceptic.png HTTP/1.1[0m" 304 -
+2021-06-27 16:36:05,011 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 16:36:05] "POST /prediksi-sentimen HTTP/1.1" 200 -
+2021-06-27 16:36:05,153 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 16:36:05] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2021-06-27 16:36:05,226 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 16:36:05] "[36mGET /static/sceptic.png HTTP/1.1[0m" 304 -
+2021-06-27 16:36:20,030 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 16:36:20] "POST /prediksi-sentimen HTTP/1.1" 200 -
+2021-06-27 16:36:20,147 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 16:36:20] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2021-06-27 16:36:20,248 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 16:36:20] "[36mGET /static/sad.png HTTP/1.1[0m" 304 -
+2021-06-27 16:36:23,721 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 16:36:23] "POST /prediksi-sentimen HTTP/1.1" 200 -
+2021-06-27 16:36:23,866 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 16:36:23] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2021-06-27 16:36:23,935 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 16:36:23] "[36mGET /static/sad.png HTTP/1.1[0m" 304 -
+2021-06-27 16:36:27,545 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 16:36:27] "POST /prediksi-sentimen HTTP/1.1" 200 -
+2021-06-27 16:36:27,667 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 16:36:27] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2021-06-27 16:36:27,798 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 16:36:27] "[36mGET /static/sad.png HTTP/1.1[0m" 304 -
+2021-06-27 16:36:46,436 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 16:36:46] "POST /prediksi-sentimen HTTP/1.1" 200 -
+2021-06-27 16:36:46,701 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 16:36:46] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2021-06-27 16:36:46,915 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 16:36:46] "[36mGET /static/sceptic.png HTTP/1.1[0m" 304 -
+2021-06-27 16:36:51,720 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 16:36:51] "POST /prediksi-sentimen HTTP/1.1" 200 -
+2021-06-27 16:36:51,974 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 16:36:51] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2021-06-27 16:36:52,154 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 16:36:52] "[36mGET /static/sceptic.png HTTP/1.1[0m" 304 -
+2021-06-27 16:36:56,146 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 16:36:56] "POST /prediksi-sentimen HTTP/1.1" 200 -
+2021-06-27 16:36:56,231 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 16:36:56] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2021-06-27 16:36:56,404 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 16:36:56] "[36mGET /static/sceptic.png HTTP/1.1[0m" 304 -
+2021-06-27 16:37:12,987 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 16:37:12] "POST /prediksi-sentimen HTTP/1.1" 200 -
+2021-06-27 16:37:13,284 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 16:37:13] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2021-06-27 16:37:13,288 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 16:37:13] "[36mGET /static/happy.png HTTP/1.1[0m" 304 -
+2021-06-27 16:37:16,903 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 16:37:16] "POST /prediksi-sentimen HTTP/1.1" 200 -
+2021-06-27 16:37:16,980 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 16:37:16] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2021-06-27 16:37:17,100 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 16:37:17] "[36mGET /static/happy.png HTTP/1.1[0m" 304 -
+2021-06-27 16:37:23,740 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 16:37:23] "POST /prediksi-sentimen HTTP/1.1" 200 -
+2021-06-27 16:37:24,821 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 16:37:24] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2021-06-27 16:37:24,826 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 16:37:24] "[36mGET /static/happy.png HTTP/1.1[0m" 304 -
+2021-06-27 16:37:26,597 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 16:37:26] "POST /prediksi-sentimen HTTP/1.1" 200 -
+2021-06-27 16:37:26,696 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 16:37:26] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2021-06-27 16:37:26,776 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 16:37:26] "[36mGET /static/happy.png HTTP/1.1[0m" 304 -
+2021-06-27 16:38:31,420 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 16:38:31] "POST /prediksi-sentimen HTTP/1.1" 200 -
+2021-06-27 16:38:31,470 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 16:38:31] "GET /static/style.css HTTP/1.1" 200 -
+2021-06-27 16:38:31,618 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 16:38:31] "[36mGET /static/happy.png HTTP/1.1[0m" 304 -
+2021-06-27 16:38:52,750 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 16:38:52] "GET /prediksi-sentimen HTTP/1.1" 200 -
+2021-06-27 16:38:52,875 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 16:38:52] "GET /static/style.css HTTP/1.1" 200 -
+2021-06-27 16:39:02,232 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 16:39:02] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2021-06-27 16:39:03,225 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 16:39:03] "GET /static/style.css.map HTTP/1.1" 200 -
+2021-06-27 16:39:39,352 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 16:39:39] "GET /prediksi-sentimen HTTP/1.1" 200 -
+2021-06-27 16:39:39,424 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 16:39:39] "GET /static/style.css HTTP/1.1" 200 -
+2021-06-27 16:39:52,244 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 16:39:52] "GET /prediksi-sentimen HTTP/1.1" 200 -
+2021-06-27 16:39:52,531 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 16:39:52] "GET /static/style.css HTTP/1.1" 200 -
+2021-06-27 16:40:02,916 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 16:40:02] "GET /prediksi-sentimen HTTP/1.1" 200 -
+2021-06-27 16:40:03,196 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 16:40:03] "GET /static/style.css HTTP/1.1" 200 -
+2021-06-27 16:40:25,910 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 16:40:25] "GET /prediksi-sentimen HTTP/1.1" 200 -
+2021-06-27 16:40:26,005 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 16:40:26] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2021-06-27 16:40:37,309 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 16:40:37] "GET /prediksi-sentimen HTTP/1.1" 200 -
+2021-06-27 16:40:37,575 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 16:40:37] "GET /static/style.css HTTP/1.1" 200 -
+2021-06-27 16:40:40,065 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 16:40:40] "POST /prediksi-sentimen HTTP/1.1" 200 -
+2021-06-27 16:40:40,170 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 16:40:40] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2021-06-27 16:40:40,282 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 16:40:40] "[36mGET /static/sad.png HTTP/1.1[0m" 304 -
+2021-06-27 16:40:59,671 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 16:40:59] "POST /prediksi-sentimen HTTP/1.1" 200 -
+2021-06-27 16:40:59,899 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 16:40:59] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2021-06-27 16:41:00,087 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 16:41:00] "[36mGET /static/sad.png HTTP/1.1[0m" 304 -
+2021-06-27 16:41:13,010 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 16:41:13] "POST /prediksi-sentimen HTTP/1.1" 200 -
+2021-06-27 16:41:13,222 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 16:41:13] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2021-06-27 16:41:13,479 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 16:41:13] "[36mGET /static/sad.png HTTP/1.1[0m" 304 -
+2021-06-27 16:41:37,702 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 16:41:37] "POST /prediksi-sentimen HTTP/1.1" 200 -
+2021-06-27 16:41:37,819 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 16:41:37] "GET /static/style.css HTTP/1.1" 200 -
+2021-06-27 16:41:37,877 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 16:41:37] "[36mGET /static/sad.png HTTP/1.1[0m" 304 -
+2021-06-27 16:42:06,082 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 16:42:06] "POST /prediksi-sentimen HTTP/1.1" 200 -
+2021-06-27 16:42:06,204 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 16:42:06] "GET /static/style.css HTTP/1.1" 200 -
+2021-06-27 16:42:06,299 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 16:42:06] "[36mGET /static/sad.png HTTP/1.1[0m" 304 -
+2021-06-27 16:42:15,734 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 16:42:15] "POST /prediksi-sentimen HTTP/1.1" 200 -
+2021-06-27 16:42:15,875 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 16:42:15] "GET /static/style.css HTTP/1.1" 200 -
+2021-06-27 16:42:15,951 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 16:42:15] "[36mGET /static/sad.png HTTP/1.1[0m" 304 -
+2021-06-27 16:42:20,836 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 16:42:20] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2021-06-27 16:42:21,143 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 16:42:21] "GET /static/style.css.map HTTP/1.1" 200 -
+2021-06-27 16:48:36,849 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 16:48:36] "POST /prediksi-sentimen HTTP/1.1" 200 -
+2021-06-27 16:48:36,922 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 16:48:36] "GET /static/style.css HTTP/1.1" 200 -
+2021-06-27 16:48:37,050 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 16:48:37] "[36mGET /static/sad.png HTTP/1.1[0m" 304 -
+2021-06-27 16:48:46,792 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 16:48:46] "POST /prediksi-sentimen HTTP/1.1" 200 -
+2021-06-27 16:48:46,879 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 16:48:46] "GET /static/style.css HTTP/1.1" 200 -
+2021-06-27 16:48:47,187 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 16:48:47] "[36mGET /static/sad.png HTTP/1.1[0m" 304 -
+2021-06-27 16:48:56,329 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 16:48:56] "POST /prediksi-sentimen HTTP/1.1" 200 -
+2021-06-27 16:48:56,408 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 16:48:56] "GET /static/style.css HTTP/1.1" 200 -
+2021-06-27 16:48:56,544 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 16:48:56] "[36mGET /static/sad.png HTTP/1.1[0m" 304 -
+2021-06-27 16:49:22,344 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 16:49:22] "GET /pengolahan-data HTTP/1.1" 200 -
+2021-06-27 16:49:22,521 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 16:49:22] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2021-06-27 16:50:10,992 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 16:50:10] "GET /pengolahan-data HTTP/1.1" 200 -
+2021-06-27 16:50:11,171 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 16:50:11] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2021-06-27 16:56:44,406 - werkzeug - INFO -  * Detected change in 'D:\\Menuju S.Kom\\skripsi-app\\app.py', reloading
+2021-06-27 16:58:56,336 - werkzeug - INFO -  * Restarting with stat
+2021-06-27 16:59:56,653 - gensim.models.utils_any2vec - INFO - loading projection weights from <codecs.StreamReaderWriter object at 0x05B26BB0>
+2021-06-27 16:59:58,304 - gensim.models.utils_any2vec - INFO - loaded (3683, 200) matrix from <codecs.StreamReaderWriter object at 0x05B26BB0>
+2021-06-27 17:30:06,498 - werkzeug - INFO -  * Detected change in 'D:\\Menuju S.Kom\\skripsi-app\\app.py', reloading
+2021-06-27 17:30:55,966 - werkzeug - INFO -  * Restarting with stat
+2021-06-27 17:31:54,202 - gensim.models.utils_any2vec - INFO - loading projection weights from <codecs.StreamReaderWriter object at 0x03E85718>
+2021-06-27 17:31:56,101 - gensim.models.utils_any2vec - INFO - loaded (3683, 200) matrix from <codecs.StreamReaderWriter object at 0x03E85718>
+2021-06-27 17:32:13,630 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 17:32:13] "GET /pengolahan-data HTTP/1.1" 200 -
+2021-06-27 17:32:15,149 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 17:32:15] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2021-06-27 17:33:17,048 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 17:33:17] "GET / HTTP/1.1" 200 -
+2021-06-27 17:33:17,745 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 17:33:17] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2021-06-27 17:33:34,591 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 17:33:34] "GET /pengolahan-data HTTP/1.1" 200 -
+2021-06-27 17:33:43,975 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 17:33:43] "GET /pengolahan-data HTTP/1.1" 200 -
+2021-06-27 17:33:44,204 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 17:33:44] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2021-06-27 17:38:47,840 - werkzeug - INFO -  * Detected change in 'D:\\Menuju S.Kom\\skripsi-app\\app.py', reloading
+2021-06-27 17:38:48,703 - werkzeug - INFO -  * Restarting with stat
+2021-06-27 17:38:54,616 - gensim.models.utils_any2vec - INFO - loading projection weights from <codecs.StreamReaderWriter object at 0x0421ECA0>
+2021-06-27 17:38:56,550 - gensim.models.utils_any2vec - INFO - loaded (3683, 200) matrix from <codecs.StreamReaderWriter object at 0x0421ECA0>
+2021-06-27 17:39:50,543 - werkzeug - INFO -  * Detected change in 'D:\\Menuju S.Kom\\skripsi-app\\app.py', reloading
+2021-06-27 17:39:50,763 - werkzeug - INFO -  * Restarting with stat
+2021-06-27 17:39:54,688 - gensim.models.utils_any2vec - INFO - loading projection weights from <codecs.StreamReaderWriter object at 0x0BA08148>
+2021-06-27 17:39:56,435 - gensim.models.utils_any2vec - INFO - loaded (3683, 200) matrix from <codecs.StreamReaderWriter object at 0x0BA08148>
+2021-06-27 17:45:09,462 - werkzeug - INFO -  * Detected change in 'D:\\Menuju S.Kom\\skripsi-app\\app.py', reloading
+2021-06-27 17:45:09,694 - werkzeug - INFO -  * Restarting with stat
+2021-06-27 17:45:13,851 - gensim.models.utils_any2vec - INFO - loading projection weights from <codecs.StreamReaderWriter object at 0x0BA763D0>
+2021-06-27 17:45:15,463 - gensim.models.utils_any2vec - INFO - loaded (3683, 200) matrix from <codecs.StreamReaderWriter object at 0x0BA763D0>
+2021-06-27 18:08:03,557 - werkzeug - INFO -  * Detected change in 'D:\\Menuju S.Kom\\skripsi-app\\app.py', reloading
+2021-06-27 18:08:49,431 - werkzeug - INFO -  * Restarting with stat
+2021-06-27 18:09:24,219 - gensim.models.utils_any2vec - INFO - loading projection weights from <codecs.StreamReaderWriter object at 0x0B755688>
+2021-06-27 18:09:25,821 - gensim.models.utils_any2vec - INFO - loaded (3683, 200) matrix from <codecs.StreamReaderWriter object at 0x0B755688>
+2021-06-27 18:10:42,037 - werkzeug - INFO -  * Detected change in 'D:\\Menuju S.Kom\\skripsi-app\\app.py', reloading
+2021-06-27 18:10:42,288 - werkzeug - INFO -  * Restarting with stat
+2021-06-27 18:10:47,069 - gensim.models.utils_any2vec - INFO - loading projection weights from <codecs.StreamReaderWriter object at 0x026F4D60>
+2021-06-27 18:10:48,649 - gensim.models.utils_any2vec - INFO - loaded (3683, 200) matrix from <codecs.StreamReaderWriter object at 0x026F4D60>
+2021-06-27 18:11:16,289 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 18:11:16] "GET /fitur-seleksi HTTP/1.1" 200 -
+2021-06-27 18:11:42,880 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 18:11:42] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2021-06-27 18:15:00,038 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 18:15:00] "GET /fitur-seleksi HTTP/1.1" 200 -
+2021-06-27 18:15:00,114 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 18:15:00] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2021-06-27 18:15:31,138 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 18:15:31] "GET /fitur-seleksi HTTP/1.1" 200 -
+2021-06-27 18:15:31,382 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 18:15:31] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2021-06-27 18:15:50,750 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 18:15:50] "GET /fitur-seleksi HTTP/1.1" 200 -
+2021-06-27 18:15:51,028 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 18:15:51] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2021-06-27 18:16:20,516 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 18:16:20] "GET /fitur-seleksi HTTP/1.1" 200 -
+2021-06-27 18:16:20,755 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 18:16:20] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2021-06-27 18:17:54,959 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 18:17:54] "GET /fitur-seleksi HTTP/1.1" 200 -
+2021-06-27 18:17:55,208 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 18:17:55] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2021-06-27 18:18:15,810 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 18:18:15] "GET /fitur-seleksi HTTP/1.1" 200 -
+2021-06-27 18:18:16,090 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 18:18:16] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2021-06-27 18:18:41,340 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 18:18:41] "GET /fitur-seleksi HTTP/1.1" 200 -
+2021-06-27 18:18:41,501 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 18:18:41] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2021-06-27 18:19:00,205 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 18:19:00] "GET /fitur-seleksi HTTP/1.1" 200 -
+2021-06-27 18:19:00,323 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 18:19:00] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2021-06-27 18:19:37,962 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 18:19:37] "GET /fitur-seleksi HTTP/1.1" 200 -
+2021-06-27 18:19:38,127 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 18:19:38] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2021-06-27 18:19:54,711 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 18:19:54] "GET /fitur-seleksi HTTP/1.1" 200 -
+2021-06-27 18:19:54,967 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 18:19:54] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2021-06-27 18:20:21,612 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 18:20:21] "GET /fitur-seleksi HTTP/1.1" 200 -
+2021-06-27 18:20:21,673 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 18:20:21] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2021-06-27 18:20:39,761 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 18:20:39] "GET /fitur-seleksi HTTP/1.1" 200 -
+2021-06-27 18:20:39,835 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 18:20:39] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2021-06-27 18:21:25,537 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 18:21:25] "GET /fitur-seleksi HTTP/1.1" 200 -
+2021-06-27 18:21:25,589 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 18:21:25] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2021-06-27 18:21:50,262 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 18:21:50] "GET /fitur-seleksi HTTP/1.1" 200 -
+2021-06-27 18:21:50,506 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 18:21:50] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2021-06-27 18:21:52,890 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 18:21:52] "GET /fitur-seleksi HTTP/1.1" 200 -
+2021-06-27 18:21:52,995 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 18:21:52] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2021-06-27 18:22:04,512 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 18:22:04] "GET /fitur-seleksi HTTP/1.1" 200 -
+2021-06-27 18:22:04,563 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 18:22:04] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2021-06-27 18:22:36,577 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 18:22:36] "GET /fitur-seleksi HTTP/1.1" 200 -
+2021-06-27 18:22:36,745 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 18:22:36] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2021-06-27 18:22:55,132 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 18:22:55] "GET /fitur-seleksi HTTP/1.1" 200 -
+2021-06-27 18:22:55,379 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 18:22:55] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2021-06-27 18:23:13,054 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 18:23:13] "GET /fitur-seleksi HTTP/1.1" 200 -
+2021-06-27 18:23:13,318 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 18:23:13] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2021-06-27 18:24:09,287 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 18:24:09] "GET /fitur-seleksi HTTP/1.1" 200 -
+2021-06-27 18:24:09,536 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 18:24:09] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2021-06-27 18:24:57,983 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 18:24:57] "GET /fitur-seleksi HTTP/1.1" 200 -
+2021-06-27 18:24:58,238 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 18:24:58] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2021-06-27 18:27:07,018 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 18:27:07] "GET /fitur-seleksi HTTP/1.1" 200 -
+2021-06-27 18:27:07,103 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 18:27:07] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2021-06-27 18:27:24,272 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 18:27:24] "GET /fitur-seleksi HTTP/1.1" 200 -
+2021-06-27 18:27:24,517 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 18:27:24] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2021-06-27 18:27:37,469 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 18:27:37] "GET /fitur-seleksi HTTP/1.1" 200 -
+2021-06-27 18:27:37,552 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 18:27:37] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2021-06-27 18:27:48,912 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 18:27:48] "GET /fitur-seleksi HTTP/1.1" 200 -
+2021-06-27 18:27:49,172 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 18:27:49] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2021-06-27 18:27:50,096 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 18:27:50] "GET /fitur-seleksi HTTP/1.1" 200 -
+2021-06-27 18:27:50,212 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 18:27:50] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2021-06-27 18:27:59,819 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 18:27:59] "GET /fitur-seleksi HTTP/1.1" 200 -
+2021-06-27 18:28:00,065 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 18:28:00] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2021-06-27 18:36:26,324 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 18:36:26] "GET /fitur-seleksi HTTP/1.1" 200 -
+2021-06-27 18:36:26,515 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 18:36:26] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2021-06-27 18:37:13,013 - werkzeug - INFO -  * Detected change in 'D:\\Menuju S.Kom\\skripsi-app\\app.py', reloading
+2021-06-27 18:37:13,537 - werkzeug - INFO -  * Restarting with stat
+2021-06-27 18:41:21,004 - werkzeug - INFO -  * Restarting with stat
+2021-06-27 18:41:25,215 - gensim.models.utils_any2vec - INFO - loading projection weights from <codecs.StreamReaderWriter object at 0x0B84CFE8>
+2021-06-27 18:41:27,347 - gensim.models.utils_any2vec - INFO - loaded (3683, 200) matrix from <codecs.StreamReaderWriter object at 0x0B84CFE8>
+2021-06-27 18:41:43,637 - werkzeug - INFO -  * Detected change in 'D:\\Menuju S.Kom\\skripsi-app\\app.py', reloading
+2021-06-27 18:41:43,966 - werkzeug - INFO -  * Restarting with stat
+2021-06-27 18:41:50,072 - werkzeug - INFO -  * Restarting with stat
+2021-06-27 18:41:54,236 - gensim.models.utils_any2vec - INFO - loading projection weights from <codecs.StreamReaderWriter object at 0x04DAA208>
+2021-06-27 18:41:55,921 - gensim.models.utils_any2vec - INFO - loaded (3683, 200) matrix from <codecs.StreamReaderWriter object at 0x04DAA208>
+2021-06-27 18:42:11,032 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 18:42:11] "GET /fitur-seleksi HTTP/1.1" 200 -
+2021-06-27 18:42:11,082 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 18:42:11] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2021-06-27 18:42:15,604 - pyswarms.discrete.binary - INFO - Optimize for 10 iters with {'c1': 2, 'c2': 2, 'w': 0.9, 'k': 3, 'p': 1}
+2021-06-27 18:42:15,764 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 18:42:15] "[35m[1mPOST /fitur-seleksi HTTP/1.1[0m" 500 -
+2021-06-27 18:42:17,911 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 18:42:17] "GET /fitur-seleksi?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2021-06-27 18:42:17,912 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 18:42:17] "GET /fitur-seleksi?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2021-06-27 18:42:18,689 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 18:42:18] "GET /fitur-seleksi?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2021-06-27 18:42:19,154 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 18:42:19] "GET /fitur-seleksi?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+2021-06-27 18:42:19,276 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 18:42:19] "GET /fitur-seleksi?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2021-06-27 18:42:51,412 - werkzeug - INFO -  * Detected change in 'D:\\Menuju S.Kom\\skripsi-app\\app.py', reloading
+2021-06-27 18:42:51,738 - werkzeug - INFO -  * Restarting with stat
+2021-06-27 18:42:55,252 - gensim.models.utils_any2vec - INFO - loading projection weights from <codecs.StreamReaderWriter object at 0x0A4F5628>
+2021-06-27 18:42:57,048 - gensim.models.utils_any2vec - INFO - loaded (3683, 200) matrix from <codecs.StreamReaderWriter object at 0x0A4F5628>
+2021-06-27 18:43:06,630 - werkzeug - INFO -  * Detected change in 'D:\\Menuju S.Kom\\skripsi-app\\app.py', reloading
+2021-06-27 18:43:06,915 - werkzeug - INFO -  * Restarting with stat
+2021-06-27 18:43:10,179 - gensim.models.utils_any2vec - INFO - loading projection weights from <codecs.StreamReaderWriter object at 0x08948610>
+2021-06-27 18:43:11,810 - gensim.models.utils_any2vec - INFO - loaded (3683, 200) matrix from <codecs.StreamReaderWriter object at 0x08948610>
+2021-06-27 18:43:13,516 - werkzeug - INFO -  * Detected change in 'D:\\Menuju S.Kom\\skripsi-app\\app.py', reloading
+2021-06-27 18:43:13,828 - werkzeug - INFO -  * Restarting with stat
+2021-06-27 18:43:17,064 - gensim.models.utils_any2vec - INFO - loading projection weights from <codecs.StreamReaderWriter object at 0x08968610>
+2021-06-27 18:43:18,818 - gensim.models.utils_any2vec - INFO - loaded (3683, 200) matrix from <codecs.StreamReaderWriter object at 0x08968610>
+2021-06-27 18:43:28,576 - werkzeug - INFO -  * Detected change in 'D:\\Menuju S.Kom\\skripsi-app\\app.py', reloading
+2021-06-27 18:43:28,849 - werkzeug - INFO -  * Restarting with stat
+2021-06-27 18:43:33,161 - gensim.models.utils_any2vec - INFO - loading projection weights from <codecs.StreamReaderWriter object at 0x042043A0>
+2021-06-27 18:43:35,481 - gensim.models.utils_any2vec - INFO - loaded (3683, 200) matrix from <codecs.StreamReaderWriter object at 0x042043A0>
+2021-06-27 18:43:38,148 - werkzeug - INFO -  * Detected change in 'D:\\Menuju S.Kom\\skripsi-app\\app.py', reloading
+2021-06-27 18:43:38,380 - werkzeug - INFO -  * Restarting with stat
+2021-06-27 18:43:41,930 - gensim.models.utils_any2vec - INFO - loading projection weights from <codecs.StreamReaderWriter object at 0x04BEA130>
+2021-06-27 18:43:43,528 - gensim.models.utils_any2vec - INFO - loaded (3683, 200) matrix from <codecs.StreamReaderWriter object at 0x04BEA130>
+2021-06-27 18:44:36,037 - werkzeug - INFO -  * Detected change in 'D:\\Menuju S.Kom\\skripsi-app\\app.py', reloading
+2021-06-27 18:44:36,537 - werkzeug - INFO -  * Restarting with stat
+2021-06-27 18:44:40,680 - gensim.models.utils_any2vec - INFO - loading projection weights from <codecs.StreamReaderWriter object at 0x026F46A0>
+2021-06-27 18:44:42,281 - gensim.models.utils_any2vec - INFO - loaded (3683, 200) matrix from <codecs.StreamReaderWriter object at 0x026F46A0>
+2021-06-27 18:44:57,591 - werkzeug - INFO -  * Detected change in 'D:\\Menuju S.Kom\\skripsi-app\\app.py', reloading
+2021-06-27 18:44:57,958 - werkzeug - INFO -  * Restarting with stat
+2021-06-27 18:45:02,348 - gensim.models.utils_any2vec - INFO - loading projection weights from <codecs.StreamReaderWriter object at 0x05ACE940>
+2021-06-27 18:45:03,856 - gensim.models.utils_any2vec - INFO - loaded (3683, 200) matrix from <codecs.StreamReaderWriter object at 0x05ACE940>
+2021-06-27 18:45:04,204 - pyswarms.backend.generators - ERROR - generate_discrete_swarm() takes an int for n_particles and dimensions
+Traceback (most recent call last):
+  File "D:\Menuju S.Kom\skripsi-app\env\lib\site-packages\pyswarms\backend\generators.py", line 135, in generate_discrete_swarm
+    pos = np.random.randint(2, size=(n_particles, dimensions))
+  File "mtrand.pyx", line 745, in numpy.random.mtrand.RandomState.randint
+  File "_bounded_integers.pyx", line 1326, in numpy.random._bounded_integers._rand_int32
+  File "<__array_function__ internals>", line 5, in prod
+  File "D:\Menuju S.Kom\skripsi-app\env\lib\site-packages\numpy\core\fromnumeric.py", line 3030, in prod
+    return _wrapreduction(a, np.multiply, 'prod', axis, dtype, out,
+  File "D:\Menuju S.Kom\skripsi-app\env\lib\site-packages\numpy\core\fromnumeric.py", line 87, in _wrapreduction
+    return ufunc.reduce(obj, axis, dtype, out, **passkwargs)
+TypeError: cannot perform reduce with flexible type
+2021-06-27 18:45:05,965 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 18:45:05] "[35m[1mPOST /fitur-seleksi HTTP/1.1[0m" 500 -
+2021-06-27 18:45:06,142 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 18:45:06] "GET /fitur-seleksi?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2021-06-27 18:45:06,152 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 18:45:06] "GET /fitur-seleksi?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2021-06-27 18:45:06,569 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 18:45:06] "GET /fitur-seleksi?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+2021-06-27 18:45:06,588 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 18:45:06] "GET /fitur-seleksi?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2021-06-27 18:45:06,819 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 18:45:06] "GET /fitur-seleksi?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2021-06-27 18:46:28,205 - werkzeug - INFO -  * Detected change in 'D:\\Menuju S.Kom\\skripsi-app\\app.py', reloading
+2021-06-27 18:46:28,540 - werkzeug - INFO -  * Restarting with stat
+2021-06-27 18:46:32,084 - gensim.models.utils_any2vec - INFO - loading projection weights from <codecs.StreamReaderWriter object at 0x0B878F40>
+2021-06-27 18:46:35,284 - gensim.models.utils_any2vec - INFO - loaded (3683, 200) matrix from <codecs.StreamReaderWriter object at 0x0B878F40>
+2021-06-27 18:47:14,302 - werkzeug - INFO -  * Detected change in 'D:\\Menuju S.Kom\\skripsi-app\\app.py', reloading
+2021-06-27 18:47:14,543 - werkzeug - INFO -  * Restarting with stat
+2021-06-27 18:47:17,816 - gensim.models.utils_any2vec - INFO - loading projection weights from <codecs.StreamReaderWriter object at 0x0421EE68>
+2021-06-27 18:47:19,335 - gensim.models.utils_any2vec - INFO - loaded (3683, 200) matrix from <codecs.StreamReaderWriter object at 0x0421EE68>
+2021-06-27 18:47:19,427 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 18:47:19] "GET /fitur-seleksi HTTP/1.1" 200 -
+2021-06-27 18:47:19,576 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 18:47:19] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2021-06-27 18:47:24,820 - pyswarms.backend.generators - ERROR - generate_discrete_swarm() takes an int for n_particles and dimensions
+Traceback (most recent call last):
+  File "D:\Menuju S.Kom\skripsi-app\env\lib\site-packages\pyswarms\backend\generators.py", line 135, in generate_discrete_swarm
+    pos = np.random.randint(2, size=(n_particles, dimensions))
+  File "mtrand.pyx", line 745, in numpy.random.mtrand.RandomState.randint
+  File "_bounded_integers.pyx", line 1326, in numpy.random._bounded_integers._rand_int32
+  File "<__array_function__ internals>", line 5, in prod
+  File "D:\Menuju S.Kom\skripsi-app\env\lib\site-packages\numpy\core\fromnumeric.py", line 3030, in prod
+    return _wrapreduction(a, np.multiply, 'prod', axis, dtype, out,
+  File "D:\Menuju S.Kom\skripsi-app\env\lib\site-packages\numpy\core\fromnumeric.py", line 87, in _wrapreduction
+    return ufunc.reduce(obj, axis, dtype, out, **passkwargs)
+TypeError: cannot perform reduce with flexible type
+2021-06-27 18:47:26,452 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 18:47:26] "[35m[1mPOST /fitur-seleksi HTTP/1.1[0m" 500 -
+2021-06-27 18:47:26,519 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 18:47:26] "GET /fitur-seleksi?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2021-06-27 18:47:26,521 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 18:47:26] "GET /fitur-seleksi?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2021-06-27 18:47:26,857 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 18:47:26] "GET /fitur-seleksi?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+2021-06-27 18:47:26,883 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 18:47:26] "GET /fitur-seleksi?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2021-06-27 18:47:26,991 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 18:47:26] "GET /fitur-seleksi?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2021-06-27 18:48:10,826 - werkzeug - INFO -  * Detected change in 'D:\\Menuju S.Kom\\skripsi-app\\app.py', reloading
+2021-06-27 18:48:11,162 - werkzeug - INFO -  * Restarting with stat
+2021-06-27 18:48:15,036 - gensim.models.utils_any2vec - INFO - loading projection weights from <codecs.StreamReaderWriter object at 0x026F3790>
+2021-06-27 18:48:16,505 - gensim.models.utils_any2vec - INFO - loaded (3683, 200) matrix from <codecs.StreamReaderWriter object at 0x026F3790>
+2021-06-27 18:48:18,200 - pyswarms.backend.generators - ERROR - generate_discrete_swarm() takes an int for n_particles and dimensions
+Traceback (most recent call last):
+  File "D:\Menuju S.Kom\skripsi-app\env\lib\site-packages\pyswarms\backend\generators.py", line 135, in generate_discrete_swarm
+    pos = np.random.randint(2, size=(n_particles, dimensions))
+  File "mtrand.pyx", line 745, in numpy.random.mtrand.RandomState.randint
+  File "_bounded_integers.pyx", line 1326, in numpy.random._bounded_integers._rand_int32
+  File "<__array_function__ internals>", line 5, in prod
+  File "D:\Menuju S.Kom\skripsi-app\env\lib\site-packages\numpy\core\fromnumeric.py", line 3030, in prod
+    return _wrapreduction(a, np.multiply, 'prod', axis, dtype, out,
+  File "D:\Menuju S.Kom\skripsi-app\env\lib\site-packages\numpy\core\fromnumeric.py", line 87, in _wrapreduction
+    return ufunc.reduce(obj, axis, dtype, out, **passkwargs)
+TypeError: cannot perform reduce with flexible type
+2021-06-27 18:48:19,768 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 18:48:19] "[35m[1mPOST /fitur-seleksi HTTP/1.1[0m" 500 -
+2021-06-27 18:48:19,927 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 18:48:19] "GET /fitur-seleksi?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2021-06-27 18:48:19,943 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 18:48:19] "GET /fitur-seleksi?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2021-06-27 18:48:20,106 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 18:48:20] "GET /fitur-seleksi?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2021-06-27 18:48:20,130 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 18:48:20] "GET /fitur-seleksi?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+2021-06-27 18:48:20,500 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 18:48:20] "GET /fitur-seleksi?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2021-06-27 18:52:17,249 - werkzeug - INFO -  * Detected change in 'D:\\Menuju S.Kom\\skripsi-app\\app.py', reloading
+2021-06-27 18:52:18,037 - werkzeug - INFO -  * Restarting with stat
+2021-06-27 18:52:22,390 - gensim.models.utils_any2vec - INFO - loading projection weights from <codecs.StreamReaderWriter object at 0x0BA8BE08>
+2021-06-27 18:52:23,906 - gensim.models.utils_any2vec - INFO - loaded (3683, 200) matrix from <codecs.StreamReaderWriter object at 0x0BA8BE08>
+2021-06-27 18:52:32,499 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 18:52:32] "GET /fitur-seleksi HTTP/1.1" 200 -
+2021-06-27 18:52:32,968 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 18:52:32] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2021-06-27 18:52:38,125 - pyswarms.discrete.binary - INFO - Optimize for 10 iters with {'c1': 2, 'c2': 2, 'w': 0.9, 'k': 3, 'p': 1}
+2021-06-27 18:52:41,214 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: 0.33899999999999997, best pos: [1 0 1 0 1 0 1 1 1 1 0 0 0 1 0 0 1 1 1 1 1 1 0 0 0 1 0 1 1 1 0 0 0 1 1 1 1
+ 1 1 1 0 0 1 0 0 0 1 1 0 0 1 0 1 0 1 1 1 0 1 0 0 0 1 1 1 0 1 1 0 0 1 0 1 1
+ 1 0 1 1 0 0 1 1 1 0 0 0 1 1 0 0 0 0 0 1 0 1 1 1 0 1 0 0 1 0 1 0 0 1 0 0 1
+ 0 1 0 1 1 1 0 1 1 0 1 0 1 0 0 0 1 0 1 1 0 0 1 0 0 1 0 1 0 1 1 0 0 1 0 0 1
+ 1 1 1 0 1 0 1 1 1 1 0 1 0 1 1 0 0 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 0 1 1 1
+ 1 1 1 1 1 0 0 1 1 1 0 1 0 1 0]
+2021-06-27 18:52:41,218 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 18:52:41] "POST /fitur-seleksi HTTP/1.1" 200 -
+2021-06-27 18:52:41,424 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 18:52:41] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2021-06-27 18:53:13,372 - werkzeug - INFO -  * Detected change in 'D:\\Menuju S.Kom\\skripsi-app\\app.py', reloading
+2021-06-27 18:53:13,740 - werkzeug - INFO -  * Restarting with stat
+2021-06-27 18:53:18,512 - gensim.models.utils_any2vec - INFO - loading projection weights from <codecs.StreamReaderWriter object at 0x026F3778>
+2021-06-27 18:53:20,188 - gensim.models.utils_any2vec - INFO - loaded (3683, 200) matrix from <codecs.StreamReaderWriter object at 0x026F3778>
+2021-06-27 18:53:53,182 - pyswarms.discrete.binary - INFO - Optimize for 10 iters with {'c1': 2, 'c2': 2, 'w': 0.9, 'k': 3, 'p': 1}
+2021-06-27 18:53:55,501 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: 0.32149999999999995, best pos: [1 0 1 1 0 1 1 1 0 0 1 1 0 0 1 1 1 1 0 1 0 1 1 0 0 1 1 1 0 1 0 0 1 1 0 1 1
+ 0 1 1 0 1 1 0 0 1 0 1 0 1 0 1 1 1 1 1 0 0 1 1 1 1 1 0 1 0 1 1 1 1 0 1 1 1
+ 0 0 1 1 1 1 1 1 0 0 1 1 1 0 1 0 0 0 1 1 0 1 0 0 1 0 1 1 1 0 1 0 0 0 0 0 0
+ 1 0 0 0 0 1 0 0 1 0 1 1 0 1 1 1 1 0 1 0 0 1 1 0 1 1 1 1 1 0 1 1 0 1 1 1 0
+ 1 0 1 1 1 0 0 1 0 1 1 1 0 1 1 1 1 1 0 1 0 1 0 0 0 0 1 1 1 0 1 1 0 1 0 1 0
+ 0 1 0 0 0 1 0 0 1 0 0 0 1 1 0]
+2021-06-27 18:53:55,521 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 18:53:55] "POST /fitur-seleksi HTTP/1.1" 200 -
+2021-06-27 18:53:55,680 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 18:53:55] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2021-06-27 18:54:01,243 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 18:54:01] "GET /fitur-seleksi HTTP/1.1" 200 -
+2021-06-27 18:54:01,521 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 18:54:01] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2021-06-27 18:54:16,851 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 18:54:16] "GET /fitur-seleksi HTTP/1.1" 200 -
+2021-06-27 18:54:16,920 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 18:54:16] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2021-06-27 18:54:20,740 - pyswarms.discrete.binary - INFO - Optimize for 10 iters with {'c1': 2, 'c2': 2, 'w': 0.9, 'k': 3, 'p': 1}
+2021-06-27 18:54:26,086 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: 0.3370000000000001, best pos: [1 0 0 0 1 1 1 0 1 1 1 0 1 1 0 1 1 0 1 1 1 1 1 1 1 0 1 1 0 1 1 0 0 0 1 1 0
+ 1 1 1 1 1 1 1 0 1 0 0 1 0 1 1 0 0 0 0 1 1 1 1 1 0 0 1 1 1 1 1 0 0 0 1 1 1
+ 1 1 1 1 0 1 0 1 0 1 0 0 1 1 1 0 1 1 0 1 0 1 0 1 0 0 0 0 0 1 1 1 1 0 1 1 1
+ 1 1 1 0 1 0 1 0 1 0 0 1 0 1 1 1 1 0 1 0 0 1 1 1 0 0 0 0 1 1 0 0 1 1 1 1 1
+ 1 1 0 1 0 1 1 0 1 1 1 1 0 0 0 1 1 1 0 1 0 0 0 0 1 1 0 0 1 1 1 1 1 0 0 0 0
+ 0 1 1 0 1 0 1 0 0 1 1 1 1 0 0]
+2021-06-27 18:54:26,090 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 18:54:26] "POST /fitur-seleksi HTTP/1.1" 200 -
+2021-06-27 18:54:26,370 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 18:54:26] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2021-06-27 18:59:35,457 - werkzeug - INFO -  * Detected change in 'D:\\Menuju S.Kom\\skripsi-app\\app.py', reloading
+2021-06-27 18:59:35,713 - werkzeug - INFO -  * Restarting with stat
+2021-06-27 18:59:39,307 - gensim.models.utils_any2vec - INFO - loading projection weights from <codecs.StreamReaderWriter object at 0x026F36D0>
+2021-06-27 18:59:40,960 - gensim.models.utils_any2vec - INFO - loaded (3683, 200) matrix from <codecs.StreamReaderWriter object at 0x026F36D0>
+2021-06-27 19:07:30,642 - werkzeug - INFO -  * Detected change in 'D:\\Menuju S.Kom\\skripsi-app\\app.py', reloading
+2021-06-27 19:07:31,049 - werkzeug - INFO -  * Restarting with stat
+2021-06-27 19:07:35,363 - gensim.models.utils_any2vec - INFO - loading projection weights from <codecs.StreamReaderWriter object at 0x026F3778>
+2021-06-27 19:07:37,105 - gensim.models.utils_any2vec - INFO - loaded (3683, 200) matrix from <codecs.StreamReaderWriter object at 0x026F3778>
+2021-06-27 19:08:25,141 - pyswarms.discrete.binary - INFO - Optimize for 10 iters with {'c1': 2, 'c2': 2, 'w': 0.9, 'k': 3, 'p': 1}
+2021-06-27 19:08:30,830 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: 0.3400000000000001, best pos: [1 0 0 1 0 1 1 0 0 0 0 1 0 0 0 0 0 0 1 0 0 0 1 0 1 0 0 1 0 0 1 0 1 1 0 1 0
+ 0 1 0 0 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 0 0 0 1 1 0 1 0 1 0 0 0 0 1 0 1 1
+ 0 0 0 0 0 0 1 1 0 1 0 1 0 1 1 0 0 0 1 0 1 1 1 1 1 1 0 0 1 0 1 0 0 0 0 0 1
+ 1 0 0 1 1 0 1 1 1 0 0 1 0 0 0 1 1 1 1 1 1 1 1 1 1 0 1 1 1 0 1 0 1 0 0 0 1
+ 0 0 0 1 0 0 0 1 0 1 0 1 0 1 0 0 1 0 0 0 1 1 1 0 1 1 0 0 0 1 0 0 0 0 1 0 0
+ 1 1 0 1 1 0 0 1 1 0 0 0 1 1 0]
+2021-06-27 19:08:31,122 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 19:08:31] "[35m[1mPOST /fitur-seleksi HTTP/1.1[0m" 500 -
+2021-06-27 19:08:34,068 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 19:08:34] "GET /fitur-seleksi?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2021-06-27 19:08:34,115 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 19:08:34] "GET /fitur-seleksi?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2021-06-27 19:08:34,397 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 19:08:34] "GET /fitur-seleksi?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2021-06-27 19:08:36,638 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 19:08:36] "GET /fitur-seleksi?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+2021-06-27 19:08:36,973 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 19:08:36] "GET /fitur-seleksi?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2021-06-27 19:08:58,366 - werkzeug - INFO -  * Detected change in 'D:\\Menuju S.Kom\\skripsi-app\\app.py', reloading
+2021-06-27 19:08:58,853 - werkzeug - INFO -  * Restarting with stat
+2021-06-27 19:09:02,745 - gensim.models.utils_any2vec - INFO - loading projection weights from <codecs.StreamReaderWriter object at 0x0BD0FE08>
+2021-06-27 19:09:04,276 - gensim.models.utils_any2vec - INFO - loaded (3683, 200) matrix from <codecs.StreamReaderWriter object at 0x0BD0FE08>
+2021-06-27 19:09:04,360 - pyswarms.discrete.binary - INFO - Optimize for 10 iters with {'c1': 2, 'c2': 2, 'w': 0.9, 'k': 3, 'p': 1}
+2021-06-27 19:09:09,045 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: 0.3455000000000001, best pos: [1 0 1 1 1 1 1 0 1 1 1 1 1 1 0 1 0 1 0 1 0 1 1 0 0 0 1 1 0 1 1 0 1 1 1 1 0
+ 1 0 0 0 1 0 1 1 1 1 1 1 1 0 0 1 0 1 1 1 1 1 1 0 1 1 1 1 1 1 1 0 1 1 0 0 0
+ 1 1 0 0 0 0 1 1 0 1 0 1 0 1 0 0 1 1 0 0 1 1 0 1 1 0 0 0 1 1 1 0 1 1 0 0 0
+ 0 0 0 1 0 0 1 1 0 0 0 0 0 1 0 1 1 1 1 0 1 0 1 1 1 1 1 0 1 0 1 1 0 0 0 0 0
+ 1 0 0 1 1 1 1 1 0 0 1 1 1 0 0 0 1 1 1 0 1 1 0 0 0 0 1 1 1 1 1 1 1 0 1 0 1
+ 1 1 1 1 1 0 1 1 1 1 1 1 1 0 1]
+2021-06-27 19:09:09,205 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 19:09:09] "[35m[1mPOST /fitur-seleksi HTTP/1.1[0m" 500 -
+2021-06-27 19:09:09,670 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 19:09:09] "GET /fitur-seleksi?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2021-06-27 19:09:09,673 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 19:09:09] "GET /fitur-seleksi?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2021-06-27 19:09:09,763 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 19:09:09] "GET /fitur-seleksi?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+2021-06-27 19:09:09,923 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 19:09:09] "GET /fitur-seleksi?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2021-06-27 19:09:10,001 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 19:09:10] "GET /fitur-seleksi?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2021-06-27 19:09:48,359 - werkzeug - INFO -  * Detected change in 'D:\\Menuju S.Kom\\skripsi-app\\app.py', reloading
+2021-06-27 19:09:49,016 - werkzeug - INFO -  * Restarting with stat
+2021-06-27 19:09:53,333 - gensim.models.utils_any2vec - INFO - loading projection weights from <codecs.StreamReaderWriter object at 0x02706988>
+2021-06-27 19:09:55,050 - gensim.models.utils_any2vec - INFO - loaded (3683, 200) matrix from <codecs.StreamReaderWriter object at 0x02706988>
+2021-06-27 19:10:56,817 - werkzeug - INFO -  * Detected change in 'D:\\Menuju S.Kom\\skripsi-app\\app.py', reloading
+2021-06-27 19:10:57,198 - werkzeug - INFO -  * Restarting with stat
+2021-06-27 19:11:01,390 - gensim.models.utils_any2vec - INFO - loading projection weights from <codecs.StreamReaderWriter object at 0x0BE71D90>
+2021-06-27 19:11:02,977 - gensim.models.utils_any2vec - INFO - loaded (3683, 200) matrix from <codecs.StreamReaderWriter object at 0x0BE71D90>
+2021-06-27 19:11:03,106 - pyswarms.discrete.binary - INFO - Optimize for 10 iters with {'c1': 2, 'c2': 2, 'w': 0.9, 'k': 3, 'p': 1}
+2021-06-27 19:11:08,353 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: 0.32950000000000007, best pos: [1 0 0 1 0 0 1 1 1 0 1 0 1 1 1 0 1 1 1 0 0 0 1 1 0 0 1 1 1 1 1 0 0 1 0 1 0
+ 1 1 1 0 1 1 0 1 1 0 0 0 1 0 1 1 0 1 0 0 0 1 1 0 1 1 1 0 1 1 1 0 1 1 0 1 0
+ 1 1 0 0 0 1 1 1 0 1 1 1 1 0 0 0 1 0 0 1 0 0 0 1 1 1 1 1 1 1 0 1 0 1 0 0 1
+ 1 1 1 1 1 1 1 1 1 1 0 1 0 0 1 0 1 1 0 0 0 1 1 1 0 1 1 1 0 1 1 1 1 1 1 1 0
+ 1 1 0 0 1 0 0 1 0 1 1 1 0 1 0 0 0 0 1 1 0 1 1 0 0 1 0 1 1 0 1 0 1 0 0 1 1
+ 1 0 1 0 0 1 1 0 0 0 1 1 1 0 0]
+2021-06-27 19:11:08,545 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 19:11:08] "[35m[1mPOST /fitur-seleksi HTTP/1.1[0m" 500 -
+2021-06-27 19:11:08,677 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 19:11:08] "GET /fitur-seleksi?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2021-06-27 19:11:08,940 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 19:11:08] "GET /fitur-seleksi?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2021-06-27 19:11:09,368 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 19:11:09] "GET /fitur-seleksi?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2021-06-27 19:11:09,369 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 19:11:09] "GET /fitur-seleksi?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+2021-06-27 19:11:09,618 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 19:11:09] "GET /fitur-seleksi?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2021-06-27 19:11:40,262 - werkzeug - INFO -  * Detected change in 'D:\\Menuju S.Kom\\skripsi-app\\app.py', reloading
+2021-06-27 19:11:40,831 - werkzeug - INFO -  * Restarting with stat
+2021-06-27 19:11:45,079 - gensim.models.utils_any2vec - INFO - loading projection weights from <codecs.StreamReaderWriter object at 0x0B88EF88>
+2021-06-27 19:11:46,611 - gensim.models.utils_any2vec - INFO - loaded (3683, 200) matrix from <codecs.StreamReaderWriter object at 0x0B88EF88>
+2021-06-27 19:22:19,955 - werkzeug - INFO -  * Detected change in 'D:\\Menuju S.Kom\\skripsi-app\\app.py', reloading
+2021-06-27 19:22:20,190 - werkzeug - INFO -  * Restarting with stat
+2021-06-27 19:22:24,048 - gensim.models.utils_any2vec - INFO - loading projection weights from <codecs.StreamReaderWriter object at 0x02C2BD30>
+2021-06-27 19:22:25,601 - gensim.models.utils_any2vec - INFO - loaded (3683, 200) matrix from <codecs.StreamReaderWriter object at 0x02C2BD30>
+2021-06-27 19:22:25,866 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 19:22:25] "GET /fitur-seleksi HTTP/1.1" 200 -
+2021-06-27 19:22:26,325 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 19:22:26] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2021-06-27 19:22:32,018 - pyswarms.discrete.binary - INFO - Optimize for 10 iters with {'c1': 2, 'c2': 2, 'w': 0.9, 'k': 3, 'p': 1}
+2021-06-27 19:22:34,352 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: 0.3560000000000001, best pos: [1 0 0 1 0 1 0 0 0 1 1 0 0 0 1 0 0 1 1 1 1 1 0 1 0 1 0 1 0 1 1 0 0 0 0 1 1
+ 1 0 0 1 1 0 0 0 1 1 1 1 0 0 1 0 1 0 0 0 1 0 0 0 0 1 0 0 1 1 1 1 1 0 0 1 1
+ 0 0 0 1 1 0 1 1 1 0 1 0 1 1 1 1 1 1 1 1 1 1 0 1 0 1 1 0 1 1 1 0 0 1 0 1 0
+ 1 0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 1 0 1 1 1 0 1 1 0 0 0 0 1 0 1 1 1 1 1 0 0
+ 1 1 1 0 0 0 0 0 1 1 0 1 1 0 1 1 0 1 0 0 1 1 0 1 0 0 0 1 1 0 1 0 1 0 0 0 1
+ 1 0 1 1 0 1 1 0 1 0 0 1 0 0 0]
+2021-06-27 19:22:34,501 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 19:22:34] "[35m[1mPOST /fitur-seleksi HTTP/1.1[0m" 500 -
+2021-06-27 19:22:34,633 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 19:22:34] "GET /fitur-seleksi?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2021-06-27 19:22:34,670 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 19:22:34] "GET /fitur-seleksi?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2021-06-27 19:22:34,709 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 19:22:34] "GET /fitur-seleksi?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2021-06-27 19:22:35,030 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 19:22:35] "GET /fitur-seleksi?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+2021-06-27 19:22:35,417 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 19:22:35] "GET /fitur-seleksi?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2021-06-27 19:22:49,415 - werkzeug - INFO -  * Detected change in 'D:\\Menuju S.Kom\\skripsi-app\\app.py', reloading
+2021-06-27 19:22:50,368 - werkzeug - INFO -  * Restarting with stat
+2021-06-27 19:22:54,253 - gensim.models.utils_any2vec - INFO - loading projection weights from <codecs.StreamReaderWriter object at 0x026F3B80>
+2021-06-27 19:22:55,897 - gensim.models.utils_any2vec - INFO - loaded (3683, 200) matrix from <codecs.StreamReaderWriter object at 0x026F3B80>
+2021-06-27 19:22:56,577 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 19:22:56] "GET /fitur-seleksi HTTP/1.1" 200 -
+2021-06-27 19:22:56,765 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 19:22:56] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2021-06-27 19:23:02,323 - pyswarms.discrete.binary - INFO - Optimize for 10 iters with {'c1': 2, 'c2': 2, 'w': 0.9, 'k': 3, 'p': 1}
+2021-06-27 19:23:04,921 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: 0.33149999999999996, best pos: [1 0 1 1 0 0 0 1 0 1 0 0 0 1 1 0 0 1 0 1 1 0 0 0 0 1 1 1 1 0 0 1 1 1 0 1 1
+ 0 1 1 0 0 0 1 1 1 0 0 1 0 1 1 1 0 1 1 0 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1
+ 1 1 0 1 0 0 0 1 1 0 1 1 0 1 0 1 0 1 0 1 1 1 1 0 1 0 1 0 0 1 1 1 0 1 0 0 0
+ 1 1 1 1 1 0 0 1 1 0 1 1 1 1 1 1 0 1 1 0 1 0 1 0 1 1 1 1 1 0 1 0 1 1 1 0 0
+ 1 0 1 1 1 1 1 0 1 1 1 0 1 0 1 1 1 1 0 1 0 1 1 1 1 0 1 1 0 0 1 1 1 0 0 1 1
+ 1 1 1 1 1 0 1 0 1 1 1 1 1 1 1]
+2021-06-27 19:23:05,191 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 19:23:05] "[35m[1mPOST /fitur-seleksi HTTP/1.1[0m" 500 -
+2021-06-27 19:23:05,356 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 19:23:05] "GET /fitur-seleksi?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2021-06-27 19:23:05,360 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 19:23:05] "GET /fitur-seleksi?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2021-06-27 19:23:05,856 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 19:23:05] "GET /fitur-seleksi?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+2021-06-27 19:23:06,047 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 19:23:06] "GET /fitur-seleksi?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2021-06-27 19:23:06,154 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 19:23:06] "GET /fitur-seleksi?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2021-06-27 19:23:40,186 - werkzeug - INFO -  * Detected change in 'D:\\Menuju S.Kom\\skripsi-app\\app.py', reloading
+2021-06-27 19:23:40,716 - werkzeug - INFO -  * Restarting with stat
+2021-06-27 19:23:53,750 - werkzeug - INFO -  * Restarting with stat
+2021-06-27 19:23:57,234 - gensim.models.utils_any2vec - INFO - loading projection weights from <codecs.StreamReaderWriter object at 0x02C2FDF0>
+2021-06-27 19:23:58,796 - gensim.models.utils_any2vec - INFO - loaded (3683, 200) matrix from <codecs.StreamReaderWriter object at 0x02C2FDF0>
+2021-06-27 19:25:40,337 - werkzeug - INFO -  * Detected change in 'D:\\Menuju S.Kom\\skripsi-app\\app.py', reloading
+2021-06-27 19:25:40,644 - werkzeug - INFO -  * Restarting with stat
+2021-06-27 19:25:44,452 - gensim.models.utils_any2vec - INFO - loading projection weights from <codecs.StreamReaderWriter object at 0x0421FD78>
+2021-06-27 19:25:46,138 - gensim.models.utils_any2vec - INFO - loaded (3683, 200) matrix from <codecs.StreamReaderWriter object at 0x0421FD78>
+2021-06-27 19:25:46,230 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 19:25:46] "GET /fitur-seleksi HTTP/1.1" 200 -
+2021-06-27 19:25:46,363 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 19:25:46] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2021-06-27 19:25:50,257 - pyswarms.discrete.binary - INFO - Optimize for 10 iters with {'c1': 2, 'c2': 2, 'w': 0.9, 'k': 3, 'p': 1}
+2021-06-27 19:25:53,044 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: 0.3465, best pos: [1 1 0 1 1 1 0 1 1 0 0 1 1 1 0 1 0 0 0 0 0 1 0 0 1 0 1 0 1 1 0 0 0 0 0 1 1
+ 1 1 1 0 1 0 1 0 1 1 1 0 1 0 1 0 0 0 1 1 1 0 0 1 1 0 0 0 0 0 0 1 1 0 0 0 1
+ 0 0 0 0 1 1 1 1 0 1 0 1 1 1 1 0 1 1 0 0 1 1 0 1 0 0 1 1 1 0 0 1 1 1 0 1 1
+ 1 0 0 1 1 1 0 1 1 1 1 0 1 0 0 1 1 1 1 0 1 1 1 0 1 1 1 1 1 1 1 1 0 0 1 0 1
+ 0 1 0 0 0 1 1 1 1 1 1 1 0 0 1 1 1 1 1 1 1 1 1 0 1 1 0 0 1 1 1 1 1 0 1 1 0
+ 1 1 0 1 1 0 0 0 1 1 1 0 1 1 0]
+2021-06-27 19:25:53,201 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 19:25:53] "[35m[1mPOST /fitur-seleksi HTTP/1.1[0m" 500 -
+2021-06-27 19:25:53,641 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 19:25:53] "GET /fitur-seleksi?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2021-06-27 19:25:53,641 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 19:25:53] "GET /fitur-seleksi?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2021-06-27 19:25:53,755 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 19:25:53] "GET /fitur-seleksi?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+2021-06-27 19:25:53,891 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 19:25:53] "GET /fitur-seleksi?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2021-06-27 19:25:54,048 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 19:25:54] "GET /fitur-seleksi?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2021-06-27 19:26:05,250 - werkzeug - INFO -  * Detected change in 'D:\\Menuju S.Kom\\skripsi-app\\app.py', reloading
+2021-06-27 19:26:05,871 - werkzeug - INFO -  * Restarting with stat
+2021-06-27 19:26:10,450 - gensim.models.utils_any2vec - INFO - loading projection weights from <codecs.StreamReaderWriter object at 0x026F20D0>
+2021-06-27 19:26:12,014 - gensim.models.utils_any2vec - INFO - loaded (3683, 200) matrix from <codecs.StreamReaderWriter object at 0x026F20D0>
+2021-06-27 19:26:12,099 - pyswarms.discrete.binary - INFO - Optimize for 10 iters with {'c1': 2, 'c2': 2, 'w': 0.9, 'k': 3, 'p': 1}
+2021-06-27 19:26:15,160 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: 0.31899999999999995, best pos: [1 1 0 0 0 0 1 0 1 1 0 1 0 1 1 0 1 1 1 1 0 0 1 1 1 1 1 0 0 1 1 1 1 1 0 1 1
+ 1 0 0 0 1 1 1 1 0 1 0 1 0 1 0 0 1 1 0 1 0 1 0 0 1 1 0 0 0 1 0 0 0 1 1 1 1
+ 1 1 1 1 1 1 0 1 0 1 0 0 1 1 1 1 0 0 0 1 0 0 0 1 1 0 1 0 1 1 1 1 1 1 0 1 1
+ 1 1 1 0 0 1 1 1 0 1 1 1 1 0 1 1 1 1 0 0 0 0 1 1 1 1 1 1 1 1 0 1 1 0 1 0 0
+ 0 0 1 1 0 0 1 0 0 0 1 0 0 0 1 0 0 1 0 0 1 1 1 1 1 1 1 0 1 1 1 1 1 0 0 1 0
+ 1 1 0 1 1 0 1 1 1 0 1 0 0 0 1]
+2021-06-27 19:26:15,300 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 19:26:15] "POST /fitur-seleksi HTTP/1.1" 200 -
+2021-06-27 19:26:15,658 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 19:26:15] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2021-06-27 19:27:00,142 - werkzeug - INFO -  * Detected change in 'D:\\Menuju S.Kom\\skripsi-app\\app.py', reloading
+2021-06-27 19:27:00,652 - werkzeug - INFO -  * Restarting with stat
+2021-06-27 19:27:04,702 - gensim.models.utils_any2vec - INFO - loading projection weights from <codecs.StreamReaderWriter object at 0x026F30D0>
+2021-06-27 19:27:06,232 - gensim.models.utils_any2vec - INFO - loaded (3683, 200) matrix from <codecs.StreamReaderWriter object at 0x026F30D0>
+2021-06-27 19:27:06,434 - pyswarms.discrete.binary - INFO - Optimize for 10 iters with {'c1': 2, 'c2': 2, 'w': 0.9, 'k': 3, 'p': 1}
+2021-06-27 19:27:11,394 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: 0.3380000000000001, best pos: [0 1 1 1 0 1 1 1 1 1 1 1 1 1 0 0 1 1 1 1 1 1 1 1 1 0 0 1 0 1 1 1 0 1 1 1 0
+ 0 1 1 0 1 1 0 1 0 1 1 1 1 0 0 1 0 1 1 0 1 0 1 0 1 1 1 1 1 0 1 0 0 1 1 1 0
+ 1 0 1 0 1 0 1 1 1 0 1 1 0 1 1 0 0 1 1 0 1 0 1 1 1 0 1 1 1 0 1 1 0 1 1 1 1
+ 1 0 0 0 1 0 1 1 1 1 1 1 0 0 0 0 1 1 1 0 1 1 1 1 1 0 1 0 1 1 0 1 1 1 1 0 0
+ 0 0 0 1 1 0 0 1 1 0 1 1 0 1 1 0 1 1 0 0 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 0
+ 1 1 1 1 1 1 0 1 1 0 1 0 1 1 1]
+2021-06-27 19:27:11,589 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 19:27:11] "POST /fitur-seleksi HTTP/1.1" 200 -
+2021-06-27 19:27:11,977 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 19:27:11] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2021-06-27 19:27:30,534 - werkzeug - INFO -  * Detected change in 'D:\\Menuju S.Kom\\skripsi-app\\app.py', reloading
+2021-06-27 19:27:31,575 - werkzeug - INFO -  * Restarting with stat
+2021-06-27 19:27:37,060 - gensim.models.utils_any2vec - INFO - loading projection weights from <codecs.StreamReaderWriter object at 0x0B6F37D8>
+2021-06-27 19:27:38,606 - gensim.models.utils_any2vec - INFO - loaded (3683, 200) matrix from <codecs.StreamReaderWriter object at 0x0B6F37D8>
+2021-06-27 19:34:58,081 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 19:34:58] "GET /fitur-seleksi HTTP/1.1" 200 -
+2021-06-27 19:34:58,177 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 19:34:58] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2021-06-27 19:40:10,298 - werkzeug - INFO -  * Detected change in 'D:\\Menuju S.Kom\\skripsi-app\\app.py', reloading
+2021-06-27 19:40:10,593 - werkzeug - INFO -  * Restarting with stat
+2021-06-27 19:40:16,645 - gensim.models.utils_any2vec - INFO - loading projection weights from <codecs.StreamReaderWriter object at 0x0A4F8628>
+2021-06-27 19:40:18,593 - gensim.models.utils_any2vec - INFO - loaded (3683, 200) matrix from <codecs.StreamReaderWriter object at 0x0A4F8628>
+2021-06-27 19:46:16,184 - werkzeug - INFO -  * Detected change in 'D:\\Menuju S.Kom\\skripsi-app\\app.py', reloading
+2021-06-27 19:46:16,801 - werkzeug - INFO -  * Restarting with stat
+2021-06-27 19:46:21,833 - gensim.models.utils_any2vec - INFO - loading projection weights from <codecs.StreamReaderWriter object at 0x0B88CFA0>
+2021-06-27 19:46:23,746 - gensim.models.utils_any2vec - INFO - loaded (3683, 200) matrix from <codecs.StreamReaderWriter object at 0x0B88CFA0>
+2021-06-27 19:48:40,727 - werkzeug - INFO -  * Detected change in 'D:\\Menuju S.Kom\\skripsi-app\\app.py', reloading
+2021-06-27 19:48:41,332 - werkzeug - INFO -  * Restarting with stat
+2021-06-27 19:48:45,020 - gensim.models.utils_any2vec - INFO - loading projection weights from <codecs.StreamReaderWriter object at 0x07568610>
+2021-06-27 19:48:47,005 - gensim.models.utils_any2vec - INFO - loaded (3683, 200) matrix from <codecs.StreamReaderWriter object at 0x07568610>
+2021-06-27 19:49:09,647 - werkzeug - INFO -  * Detected change in 'D:\\Menuju S.Kom\\skripsi-app\\app.py', reloading
+2021-06-27 19:49:10,059 - werkzeug - INFO -  * Restarting with stat
+2021-06-27 19:49:15,443 - gensim.models.utils_any2vec - INFO - loading projection weights from <codecs.StreamReaderWriter object at 0x0B86BCE8>
+2021-06-27 19:49:18,015 - gensim.models.utils_any2vec - INFO - loaded (3683, 200) matrix from <codecs.StreamReaderWriter object at 0x0B86BCE8>
+2021-06-27 19:49:21,454 - werkzeug - INFO -  * Detected change in 'D:\\Menuju S.Kom\\skripsi-app\\app.py', reloading
+2021-06-27 19:49:21,775 - werkzeug - INFO -  * Restarting with stat
+2021-06-27 19:49:26,400 - gensim.models.utils_any2vec - INFO - loading projection weights from <codecs.StreamReaderWriter object at 0x0B885640>
+2021-06-27 19:49:28,088 - gensim.models.utils_any2vec - INFO - loaded (3683, 200) matrix from <codecs.StreamReaderWriter object at 0x0B885640>
+2021-06-27 19:50:42,180 - werkzeug - INFO -  * Detected change in 'D:\\Menuju S.Kom\\skripsi-app\\app.py', reloading
+2021-06-27 19:50:42,511 - werkzeug - INFO -  * Restarting with stat
+2021-06-27 19:50:47,267 - gensim.models.utils_any2vec - INFO - loading projection weights from <codecs.StreamReaderWriter object at 0x049B3CE8>
+2021-06-27 19:50:49,262 - gensim.models.utils_any2vec - INFO - loaded (3683, 200) matrix from <codecs.StreamReaderWriter object at 0x049B3CE8>
+2021-06-27 19:50:56,555 - werkzeug - INFO -  * Detected change in 'D:\\Menuju S.Kom\\skripsi-app\\app.py', reloading
+2021-06-27 19:50:56,796 - werkzeug - INFO -  * Restarting with stat
+2021-06-27 19:51:00,484 - gensim.models.utils_any2vec - INFO - loading projection weights from <codecs.StreamReaderWriter object at 0x0B8AB4D8>
+2021-06-27 19:51:02,211 - gensim.models.utils_any2vec - INFO - loaded (3683, 200) matrix from <codecs.StreamReaderWriter object at 0x0B8AB4D8>
+2021-06-27 19:51:27,871 - werkzeug - INFO -  * Detected change in 'D:\\Menuju S.Kom\\skripsi-app\\app.py', reloading
+2021-06-27 19:51:28,187 - werkzeug - INFO -  * Restarting with stat
+2021-06-27 19:51:31,481 - gensim.models.utils_any2vec - INFO - loading projection weights from <codecs.StreamReaderWriter object at 0x026F4CB8>
+2021-06-27 19:51:33,116 - gensim.models.utils_any2vec - INFO - loaded (3683, 200) matrix from <codecs.StreamReaderWriter object at 0x026F4CB8>
+2021-06-27 19:51:37,532 - werkzeug - INFO -  * Detected change in 'D:\\Menuju S.Kom\\skripsi-app\\app.py', reloading
+2021-06-27 19:51:38,023 - werkzeug - INFO -  * Restarting with stat
+2021-06-27 19:51:42,547 - gensim.models.utils_any2vec - INFO - loading projection weights from <codecs.StreamReaderWriter object at 0x05316328>
+2021-06-27 19:51:44,559 - gensim.models.utils_any2vec - INFO - loaded (3683, 200) matrix from <codecs.StreamReaderWriter object at 0x05316328>
+2021-06-27 19:52:27,353 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 19:52:27] "GET /fitur-seleksi HTTP/1.1" 200 -
+2021-06-27 19:52:27,669 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 19:52:27] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2021-06-27 19:52:32,043 - pyswarms.discrete.binary - INFO - Optimize for 10 iters with {'c1': 2, 'c2': 2, 'w': 0.9, 'k': 3, 'p': 1}
+2021-06-27 19:52:35,277 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: 0.3365000000000001, best pos: [1 1 1 0 1 0 1 0 1 1 1 1 1 1 0 0 1 1 1 1 1 1 1 0 1 1 0 0 0 0 1 0 1 0 1 1 0
+ 1 0 1 0 0 0 0 1 0 1 1 0 1 0 1 0 0 1 1 0 0 1 0 1 1 0 1 0 0 0 1 1 0 0 0 0 0
+ 0 0 0 1 1 0 0 1 0 1 0 0 0 0 1 1 0 1 0 1 1 1 1 1 1 0 0 0 1 1 0 1 1 0 0 1 1
+ 1 0 1 1 1 1 0 0 1 1 0 1 1 0 1 0 1 1 1 0 0 0 1 0 0 0 1 0 0 0 1 0 0 0 1 1 0
+ 0 1 1 1 0 1 1 0 0 0 1 1 0 1 1 0 1 1 1 0 0 0 0 1 1 1 1 1 0 1 1 1 0 0 0 0 1
+ 0 1 1 0 1 1 0 0 0 0 0 0 1 0 1]
+2021-06-27 19:52:35,457 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 19:52:35] "POST /fitur-seleksi HTTP/1.1" 200 -
+2021-06-27 19:52:35,932 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 19:52:35] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2021-06-27 19:52:50,521 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 19:52:50] "[35m[1mPOST /fitur-seleksi HTTP/1.1[0m" 500 -
+2021-06-27 19:52:50,808 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 19:52:50] "GET /fitur-seleksi?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2021-06-27 19:52:50,837 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 19:52:50] "GET /fitur-seleksi?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2021-06-27 19:52:51,307 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 19:52:51] "GET /fitur-seleksi?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+2021-06-27 19:52:51,333 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 19:52:51] "GET /fitur-seleksi?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2021-06-27 19:52:51,480 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 19:52:51] "GET /fitur-seleksi?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2021-06-27 19:54:08,940 - werkzeug - INFO -  * Detected change in 'D:\\Menuju S.Kom\\skripsi-app\\app.py', reloading
+2021-06-27 19:54:09,326 - werkzeug - INFO -  * Restarting with stat
+2021-06-27 19:54:13,281 - gensim.models.utils_any2vec - INFO - loading projection weights from <codecs.StreamReaderWriter object at 0x08969700>
+2021-06-27 19:54:14,854 - gensim.models.utils_any2vec - INFO - loaded (3683, 200) matrix from <codecs.StreamReaderWriter object at 0x08969700>
+2021-06-27 19:54:16,557 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 19:54:16] "[35m[1mPOST /fitur-seleksi HTTP/1.1[0m" 500 -
+2021-06-27 19:54:16,674 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 19:54:16] "GET /fitur-seleksi?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2021-06-27 19:54:16,676 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 19:54:16] "GET /fitur-seleksi?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2021-06-27 19:54:17,182 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 19:54:17] "GET /fitur-seleksi?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+2021-06-27 19:54:17,232 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 19:54:17] "GET /fitur-seleksi?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2021-06-27 19:54:17,281 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 19:54:17] "GET /fitur-seleksi?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2021-06-27 19:57:39,890 - werkzeug - INFO -  * Detected change in 'D:\\Menuju S.Kom\\skripsi-app\\app.py', reloading
+2021-06-27 19:57:40,146 - werkzeug - INFO -  * Restarting with stat
+2021-06-27 19:57:44,585 - gensim.models.utils_any2vec - INFO - loading projection weights from <codecs.StreamReaderWriter object at 0x0591F928>
+2021-06-27 19:57:46,318 - gensim.models.utils_any2vec - INFO - loaded (3683, 200) matrix from <codecs.StreamReaderWriter object at 0x0591F928>
+2021-06-27 20:02:52,268 - werkzeug - INFO -  * Detected change in 'D:\\Menuju S.Kom\\skripsi-app\\app.py', reloading
+2021-06-27 20:02:52,771 - werkzeug - INFO -  * Restarting with stat
+2021-06-27 20:02:57,043 - gensim.models.utils_any2vec - INFO - loading projection weights from <codecs.StreamReaderWriter object at 0x0B8946A0>
+2021-06-27 20:02:59,340 - gensim.models.utils_any2vec - INFO - loaded (3683, 200) matrix from <codecs.StreamReaderWriter object at 0x0B8946A0>
+2021-06-27 20:03:00,205 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 20:03:00] "GET /fitur-seleksi HTTP/1.1" 200 -
+2021-06-27 20:03:00,517 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 20:03:00] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2021-06-27 20:03:18,175 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 20:03:18] "POST /fitur-seleksi HTTP/1.1" 200 -
+2021-06-27 20:03:18,250 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 20:03:18] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2021-06-27 20:04:02,922 - werkzeug - INFO -  * Detected change in 'D:\\Menuju S.Kom\\skripsi-app\\app.py', reloading
+2021-06-27 20:04:03,502 - werkzeug - INFO -  * Restarting with stat
+2021-06-27 20:04:08,168 - gensim.models.utils_any2vec - INFO - loading projection weights from <codecs.StreamReaderWriter object at 0x0B89AFE8>
+2021-06-27 20:04:09,728 - gensim.models.utils_any2vec - INFO - loaded (3683, 200) matrix from <codecs.StreamReaderWriter object at 0x0B89AFE8>
+2021-06-27 20:04:13,635 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 20:04:13] "[35m[1mPOST /fitur-seleksi HTTP/1.1[0m" 500 -
+2021-06-27 20:04:14,071 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 20:04:14] "GET /fitur-seleksi?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2021-06-27 20:04:14,076 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 20:04:14] "GET /fitur-seleksi?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2021-06-27 20:04:14,186 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 20:04:14] "GET /fitur-seleksi?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2021-06-27 20:04:14,331 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 20:04:14] "GET /fitur-seleksi?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+2021-06-27 20:04:14,465 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 20:04:14] "GET /fitur-seleksi?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2021-06-27 20:04:32,593 - werkzeug - INFO -  * Detected change in 'D:\\Menuju S.Kom\\skripsi-app\\app.py', reloading
+2021-06-27 20:04:33,027 - werkzeug - INFO -  * Restarting with stat
+2021-06-27 20:04:36,950 - gensim.models.utils_any2vec - INFO - loading projection weights from <codecs.StreamReaderWriter object at 0x026F3B38>
+2021-06-27 20:04:38,479 - gensim.models.utils_any2vec - INFO - loaded (3683, 200) matrix from <codecs.StreamReaderWriter object at 0x026F3B38>
+2021-06-27 20:05:17,756 - werkzeug - INFO -  * Detected change in 'D:\\Menuju S.Kom\\skripsi-app\\app.py', reloading
+2021-06-27 20:05:18,064 - werkzeug - INFO -  * Restarting with stat
+2021-06-27 20:05:22,719 - gensim.models.utils_any2vec - INFO - loading projection weights from <codecs.StreamReaderWriter object at 0x026F36E8>
+2021-06-27 20:05:24,384 - gensim.models.utils_any2vec - INFO - loaded (3683, 200) matrix from <codecs.StreamReaderWriter object at 0x026F36E8>
+2021-06-27 20:05:26,901 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 20:05:26] "POST /fitur-seleksi HTTP/1.1" 200 -
+2021-06-27 20:05:27,269 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 20:05:27] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2021-06-27 20:05:31,063 - pyswarms.discrete.binary - INFO - Optimize for 10 iters with {'c1': 2, 'c2': 2, 'w': 0.9, 'k': 3, 'p': 1}
+2021-06-27 20:05:34,452 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: 0.3455, best pos: [1 0 0 0 0 0 1 1 0 1 1 1 0 1 1 1 1 0 1 1 1 1 1 1 0 1 0 1 1 1 0 0 1 0 1 1 1
+ 0 1 0 0 0 0 0 1 1 0 1 0 1 1 1 1 1 1 0 0 1 1 1 1 0 0 0 1 0 0 1 1 0 1 0 1 0
+ 0 1 1 0 1 1 1 1 1 0 1 0 1 0 0 0 0 1 1 0 0 0 1 1 0 1 1 0 1 0 0 1 0 0 1 1 0
+ 1 0 1 1 0 1 1 0 1 0 0 0 0 1 1 0 1 0 0 0 0 0 1 0 0 0 0 0 0 1 1 1 0 0 1 0 0
+ 1 0 0 0 0 1 1 0 0 1 1 1 0 0 0 0 0 1 1 1 1 0 1 1 1 1 0 0 0 1 0 1 1 0 1 1 0
+ 1 0 1 1 0 0 1 0 0 0 1 1 1 0 1]
+2021-06-27 20:05:34,583 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 20:05:34] "POST /fitur-seleksi HTTP/1.1" 200 -
+2021-06-27 20:05:34,990 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 20:05:34] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2021-06-27 20:05:44,382 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 20:05:44] "POST /fitur-seleksi HTTP/1.1" 200 -
+2021-06-27 20:05:44,764 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 20:05:44] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2021-06-27 20:07:26,941 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 20:07:26] "[35m[1mPOST /fitur-seleksi HTTP/1.1[0m" 500 -
+2021-06-27 20:07:27,112 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 20:07:27] "GET /fitur-seleksi?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2021-06-27 20:07:27,118 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 20:07:27] "GET /fitur-seleksi?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2021-06-27 20:07:27,558 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 20:07:27] "GET /fitur-seleksi?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+2021-06-27 20:07:27,582 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 20:07:27] "GET /fitur-seleksi?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2021-06-27 20:07:27,804 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 20:07:27] "GET /fitur-seleksi?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2021-06-27 20:07:50,956 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 20:07:50] "[35m[1mPOST /fitur-seleksi HTTP/1.1[0m" 500 -
+2021-06-27 20:07:51,239 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 20:07:51] "GET /fitur-seleksi?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2021-06-27 20:07:51,241 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 20:07:51] "GET /fitur-seleksi?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2021-06-27 20:07:51,613 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 20:07:51] "GET /fitur-seleksi?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+2021-06-27 20:07:51,670 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 20:07:51] "GET /fitur-seleksi?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2021-06-27 20:07:51,863 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 20:07:51] "GET /fitur-seleksi?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2021-06-27 20:08:36,530 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 20:08:36] "POST /fitur-seleksi HTTP/1.1" 200 -
+2021-06-27 20:08:36,672 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 20:08:36] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2021-06-27 20:08:42,780 - pyswarms.discrete.binary - INFO - Optimize for 10 iters with {'c1': 2, 'c2': 2, 'w': 0.9, 'k': 3, 'p': 1}
+2021-06-27 20:08:46,751 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: 0.32249999999999995, best pos: [1 0 1 0 0 0 1 1 1 1 1 0 1 1 1 1 1 0 1 0 0 0 0 1 0 1 0 0 0 1 1 0 0 1 0 1 0
+ 1 1 0 1 0 0 0 1 1 1 1 1 1 0 0 0 1 1 0 0 1 1 1 0 0 1 0 1 1 1 1 0 0 1 1 1 1
+ 1 1 1 1 0 1 0 1 0 1 1 0 1 1 0 1 1 0 1 1 1 1 1 1 1 1 1 0 1 1 0 1 1 1 1 1 0
+ 0 0 1 0 0 1 0 1 1 0 0 1 0 0 0 0 0 1 1 0 1 1 0 0 1 0 1 0 0 0 1 1 0 1 0 0 1
+ 1 0 1 1 0 0 0 1 0 1 0 0 1 1 0 0 0 0 1 0 1 1 1 1 1 1 1 1 0 1 1 0 1 1 1 1 1
+ 1 0 0 0 0 0 0 0 1 0 0 0 1 1 1]
+2021-06-27 20:08:46,903 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 20:08:46] "POST /fitur-seleksi HTTP/1.1" 200 -
+2021-06-27 20:08:47,142 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 20:08:47] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2021-06-27 20:08:58,805 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 20:08:58] "POST /fitur-seleksi HTTP/1.1" 200 -
+2021-06-27 20:08:58,968 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 20:08:58] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2021-06-27 20:09:32,511 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 20:09:32] "POST /fitur-seleksi HTTP/1.1" 200 -
+2021-06-27 20:09:32,707 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 20:09:32] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2021-06-27 20:10:33,673 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 20:10:33] "POST /fitur-seleksi HTTP/1.1" 200 -
+2021-06-27 20:10:33,901 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 20:10:33] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2021-06-27 20:11:11,657 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 20:11:11] "POST /fitur-seleksi HTTP/1.1" 200 -
+2021-06-27 20:11:11,781 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 20:11:11] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2021-06-27 20:13:30,325 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 20:13:30] "POST /fitur-seleksi HTTP/1.1" 200 -
+2021-06-27 20:13:30,379 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 20:13:30] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2021-06-27 20:13:36,489 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 20:13:36] "GET /fitur-seleksi HTTP/1.1" 200 -
+2021-06-27 20:13:36,670 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 20:13:36] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2021-06-27 20:13:39,668 - pyswarms.discrete.binary - INFO - Optimize for 10 iters with {'c1': 2, 'c2': 2, 'w': 0.9, 'k': 3, 'p': 1}
+2021-06-27 20:13:42,033 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: 0.33199999999999996, best pos: [1 1 0 1 1 1 0 1 1 1 0 1 1 0 0 1 0 1 1 1 1 0 1 0 1 0 0 1 1 1 0 1 1 0 0 1 0
+ 1 1 0 1 0 0 0 0 1 1 1 0 1 1 1 1 0 0 0 0 1 1 1 0 0 1 1 0 1 0 1 0 1 1 0 1 0
+ 1 0 1 1 1 0 1 1 1 0 1 1 0 0 1 0 1 1 1 1 0 1 0 1 1 1 1 0 1 0 0 1 1 1 1 0 0
+ 1 0 1 1 0 1 1 0 0 0 0 1 0 1 1 1 1 0 1 0 0 1 1 0 0 0 1 1 1 1 1 0 0 1 0 0 0
+ 0 0 1 1 1 1 1 0 1 1 1 1 0 0 0 1 1 0 0 1 0 0 0 1 1 1 0 0 0 1 0 0 0 1 1 1 0
+ 0 1 1 1 0 1 1 0 0 1 0 0 0 1 0]
+2021-06-27 20:13:42,165 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 20:13:42] "POST /fitur-seleksi HTTP/1.1" 200 -
+2021-06-27 20:13:42,471 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 20:13:42] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2021-06-27 20:15:47,304 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 20:15:47] "GET /fitur-seleksi HTTP/1.1" 200 -
+2021-06-27 20:15:47,374 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 20:15:47] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2021-06-27 20:16:34,450 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 20:16:34] "GET /fitur-seleksi HTTP/1.1" 200 -
+2021-06-27 20:16:34,654 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 20:16:34] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2021-06-27 20:17:47,860 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 20:17:47] "GET /fitur-seleksi HTTP/1.1" 200 -
+2021-06-27 20:17:47,956 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 20:17:47] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2021-06-27 20:17:49,864 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 20:17:49] "GET /training-evaluasi HTTP/1.1" 200 -
+2021-06-27 20:17:50,029 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 20:17:50] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2021-06-27 20:17:51,153 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 20:17:51] "GET /fitur-seleksi HTTP/1.1" 200 -
+2021-06-27 20:17:51,353 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 20:17:51] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2021-06-27 20:17:56,419 - pyswarms.discrete.binary - INFO - Optimize for 10 iters with {'c1': 2, 'c2': 2, 'w': 0.9, 'k': 3, 'p': 1}
+2021-06-27 20:18:00,015 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: 0.3555000000000001, best pos: [0 0 1 1 0 1 0 1 0 1 1 1 1 1 0 1 1 0 1 1 0 1 0 1 1 1 0 1 0 1 0 0 1 0 1 0 1
+ 1 1 1 1 1 1 0 1 0 1 1 0 1 0 1 1 0 0 0 1 0 0 0 0 1 1 1 1 1 0 0 1 0 0 0 1 0
+ 1 0 1 1 0 0 1 0 0 1 1 0 0 1 1 0 1 0 0 0 0 0 0 0 1 0 0 0 1 1 1 1 0 0 0 0 1
+ 1 0 0 1 1 0 0 1 1 1 0 1 0 0 0 1 0 1 1 0 1 0 1 0 0 0 0 1 0 1 1 0 0 1 0 1 0
+ 1 0 1 0 1 1 0 0 1 1 1 1 1 0 1 0 0 0 1 1 1 0 1 1 0 0 0 1 1 0 1 0 1 0 1 0 0
+ 0 0 1 0 0 1 1 1 0 0 1 1 0 0 1]
+2021-06-27 20:18:00,143 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 20:18:00] "POST /fitur-seleksi HTTP/1.1" 200 -
+2021-06-27 20:18:00,473 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 20:18:00] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2021-06-27 20:18:10,659 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 20:18:10] "POST /fitur-seleksi HTTP/1.1" 200 -
+2021-06-27 20:18:10,759 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 20:18:10] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2021-06-27 20:19:13,594 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 20:19:13] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2021-06-27 20:19:17,245 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 20:19:17] "GET /static/style.css.map HTTP/1.1" 200 -
+2021-06-27 20:20:13,138 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 20:20:13] "POST /fitur-seleksi HTTP/1.1" 200 -
+2021-06-27 20:20:13,465 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 20:20:13] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2021-06-27 20:20:13,705 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 20:20:13] "GET /static/style.css.map HTTP/1.1" 200 -
+2021-06-27 20:22:04,662 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 20:22:04] "GET /fitur-seleksi HTTP/1.1" 200 -
+2021-06-27 20:22:04,929 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 20:22:04] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2021-06-27 20:22:05,223 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 20:22:05] "GET /static/style.css.map HTTP/1.1" 200 -
+2021-06-27 20:22:56,099 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 20:22:56] "GET /fitur-seleksi HTTP/1.1" 200 -
+2021-06-27 20:22:56,329 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 20:22:56] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2021-06-27 20:23:44,752 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 20:23:44] "GET /fitur-seleksi HTTP/1.1" 200 -
+2021-06-27 20:23:44,892 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 20:23:44] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2021-06-27 20:31:18,382 - werkzeug - INFO -  * Detected change in 'D:\\Menuju S.Kom\\skripsi-app\\app.py', reloading
+2021-06-27 20:31:18,777 - werkzeug - INFO -  * Restarting with stat
+2021-06-27 20:31:22,548 - gensim.models.utils_any2vec - INFO - loading projection weights from <codecs.StreamReaderWriter object at 0x04220D48>
+2021-06-27 20:31:24,103 - gensim.models.utils_any2vec - INFO - loaded (3683, 200) matrix from <codecs.StreamReaderWriter object at 0x04220D48>
+2021-06-27 20:31:25,471 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 20:31:25] "GET /fitur-seleksi HTTP/1.1" 200 -
+2021-06-27 20:31:25,726 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 20:31:25] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2021-06-27 20:31:30,363 - pyswarms.discrete.binary - INFO - Optimize for 10 iters with {'c1': 2, 'c2': 2, 'w': 0.9, 'k': 3, 'p': 1}
+2021-06-27 20:31:33,181 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: 0.346, best pos: [0 1 0 1 1 1 1 1 1 1 0 0 1 0 1 0 0 1 1 0 1 0 0 1 0 1 1 0 1 1 1 0 0 1 0 1 1
+ 1 1 1 1 0 1 1 0 1 0 1 0 0 1 0 0 1 0 0 1 1 1 0 1 1 0 1 1 0 1 1 0 0 1 1 0 0
+ 0 1 1 0 0 1 1 0 1 0 1 1 1 1 0 0 1 0 0 1 0 0 1 0 1 0 0 0 1 1 0 0 1 1 0 0 0
+ 1 0 1 0 0 1 1 1 1 0 0 1 1 0 1 1 1 0 1 0 1 1 1 1 1 0 1 1 0 0 1 1 0 1 1 0 1
+ 0 1 0 0 1 1 1 0 1 1 1 1 0 1 1 1 0 0 1 1 1 1 1 1 0 0 1 1 1 1 1 1 1 0 1 1 1
+ 0 1 1 1 1 1 0 1 1 0 1 0 0 0 1]
+2021-06-27 20:31:33,326 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 20:31:33] "POST /fitur-seleksi HTTP/1.1" 200 -
+2021-06-27 20:31:33,520 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 20:31:33] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2021-06-27 20:31:58,198 - werkzeug - INFO -  * Detected change in 'D:\\Menuju S.Kom\\skripsi-app\\app.py', reloading
+2021-06-27 20:31:58,570 - werkzeug - INFO -  * Restarting with stat
+2021-06-27 20:32:03,163 - gensim.models.utils_any2vec - INFO - loading projection weights from <codecs.StreamReaderWriter object at 0x027077D8>
+2021-06-27 20:32:04,866 - gensim.models.utils_any2vec - INFO - loaded (3683, 200) matrix from <codecs.StreamReaderWriter object at 0x027077D8>
+2021-06-27 20:32:04,978 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 20:32:04] "GET /fitur-seleksi HTTP/1.1" 200 -
+2021-06-27 20:32:05,275 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 20:32:05] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2021-06-27 20:32:08,848 - pyswarms.discrete.binary - INFO - Optimize for 10 iters with {'c1': 2, 'c2': 2, 'w': 0.9, 'k': 3, 'p': 1}
+2021-06-27 20:32:12,259 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: 0.32450000000000007, best pos: [0 1 0 1 1 0 1 0 1 1 1 0 0 1 1 0 0 1 1 1 0 0 1 1 1 0 0 1 1 1 1 0 1 1 1 1 1
+ 1 1 0 1 0 1 0 0 0 1 0 1 1 0 1 0 1 1 0 1 1 0 0 0 1 0 1 1 1 0 0 0 1 1 0 1 0
+ 0 1 1 0 1 1 0 0 0 0 1 0 1 1 1 0 1 1 1 1 1 1 1 1 0 0 0 1 0 0 1 0 1 1 0 1 1
+ 0 0 0 1 1 0 0 1 1 1 1 1 0 1 0 1 0 1 1 1 0 0 1 0 0 0 0 0 0 1 1 0 0 0 0 1 1
+ 0 0 1 0 1 0 0 1 0 1 1 0 0 1 1 0 0 1 1 1 1 0 1 1 0 1 1 1 0 1 0 0 1 0 0 0 0
+ 1 1 1 1 0 1 0 1 1 0 0 0 1 0 1]
+2021-06-27 20:32:12,376 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 20:32:12] "POST /fitur-seleksi HTTP/1.1" 200 -
+2021-06-27 20:32:12,797 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 20:32:12] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2021-06-27 20:32:21,587 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 20:32:21] "POST /fitur-seleksi HTTP/1.1" 200 -
+2021-06-27 20:32:22,016 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 20:32:22] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2021-06-27 20:32:35,864 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 20:32:35] "GET / HTTP/1.1" 200 -
+2021-06-27 20:32:36,034 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 20:32:36] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2021-06-27 20:35:11,476 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 20:35:11] "GET / HTTP/1.1" 200 -
+2021-06-27 20:35:12,004 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 20:35:12] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2021-06-27 20:37:56,652 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 20:37:56] "GET / HTTP/1.1" 200 -
+2021-06-27 20:37:56,940 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 20:37:56] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2021-06-27 20:38:17,694 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 20:38:17] "GET / HTTP/1.1" 200 -
+2021-06-27 20:38:17,919 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 20:38:17] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2021-06-27 20:38:53,858 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 20:38:53] "GET /pengolahan-data HTTP/1.1" 200 -
+2021-06-27 20:38:54,463 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 20:38:54] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2021-06-27 20:44:22,737 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 20:44:22] "GET /pengolahan-data HTTP/1.1" 200 -
+2021-06-27 20:44:23,570 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 20:44:23] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2021-06-27 20:45:18,575 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 20:45:18] "GET /pengolahan-data HTTP/1.1" 200 -
+2021-06-27 20:45:19,524 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 20:45:19] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2021-06-27 20:53:09,916 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 20:53:09] "GET /fitur-seleksi HTTP/1.1" 200 -
+2021-06-27 20:53:11,862 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 20:53:11] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2021-06-27 20:53:28,671 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 20:53:28] "GET /prediksi-sentimen HTTP/1.1" 200 -
+2021-06-27 20:53:28,950 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 20:53:28] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2021-06-27 20:53:30,043 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 20:53:30] "GET /training-evaluasi HTTP/1.1" 200 -
+2021-06-27 20:53:30,292 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 20:53:30] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2021-06-27 20:53:45,146 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 20:53:45] "GET /prediksi-sentimen HTTP/1.1" 200 -
+2021-06-27 20:53:45,543 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 20:53:45] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2021-06-27 23:29:55,313 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 23:29:55] "GET / HTTP/1.1" 200 -
+2021-06-27 23:29:59,412 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 23:29:59] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2021-06-27 23:59:06,811 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 23:59:06] "GET / HTTP/1.1" 200 -
+2021-06-27 23:59:07,720 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 23:59:07] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2021-06-27 23:59:35,270 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 23:59:35] "GET / HTTP/1.1" 200 -
+2021-06-27 23:59:35,496 - werkzeug - INFO - 127.0.0.1 - - [27/Jun/2021 23:59:35] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2021-06-28 00:00:51,228 - werkzeug - INFO - 127.0.0.1 - - [28/Jun/2021 00:00:51] "GET / HTTP/1.1" 200 -
+2021-06-28 00:00:51,609 - werkzeug - INFO - 127.0.0.1 - - [28/Jun/2021 00:00:51] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2021-06-28 00:06:13,954 - werkzeug - INFO - 127.0.0.1 - - [28/Jun/2021 00:06:13] "GET / HTTP/1.1" 200 -
+2021-06-28 00:06:14,792 - werkzeug - INFO - 127.0.0.1 - - [28/Jun/2021 00:06:14] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2021-06-28 00:06:42,263 - werkzeug - INFO - 127.0.0.1 - - [28/Jun/2021 00:06:42] "GET / HTTP/1.1" 200 -
+2021-06-28 00:06:42,477 - werkzeug - INFO - 127.0.0.1 - - [28/Jun/2021 00:06:42] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2021-06-28 00:08:06,399 - werkzeug - INFO - 127.0.0.1 - - [28/Jun/2021 00:08:06] "GET / HTTP/1.1" 200 -
+2021-06-28 00:08:06,877 - werkzeug - INFO - 127.0.0.1 - - [28/Jun/2021 00:08:06] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2021-06-28 00:11:54,203 - werkzeug - INFO - 127.0.0.1 - - [28/Jun/2021 00:11:54] "GET / HTTP/1.1" 200 -
+2021-06-28 00:11:55,258 - werkzeug - INFO - 127.0.0.1 - - [28/Jun/2021 00:11:55] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2021-06-28 00:12:28,202 - werkzeug - INFO - 127.0.0.1 - - [28/Jun/2021 00:12:28] "GET / HTTP/1.1" 200 -
+2021-06-28 00:12:28,447 - werkzeug - INFO - 127.0.0.1 - - [28/Jun/2021 00:12:28] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2021-06-28 00:12:48,693 - werkzeug - INFO - 127.0.0.1 - - [28/Jun/2021 00:12:48] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2021-06-28 00:12:51,565 - werkzeug - INFO - 127.0.0.1 - - [28/Jun/2021 00:12:51] "GET /static/style.css.map HTTP/1.1" 200 -
+2021-06-28 00:13:00,683 - werkzeug - INFO - 127.0.0.1 - - [28/Jun/2021 00:13:00] "GET / HTTP/1.1" 200 -
+2021-06-28 00:13:01,077 - werkzeug - INFO - 127.0.0.1 - - [28/Jun/2021 00:13:01] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2021-06-28 00:13:03,159 - werkzeug - INFO - 127.0.0.1 - - [28/Jun/2021 00:13:03] "GET /static/style.css.map HTTP/1.1" 200 -
+2021-06-28 00:13:11,066 - werkzeug - INFO - 127.0.0.1 - - [28/Jun/2021 00:13:11] "GET / HTTP/1.1" 200 -
+2021-06-28 00:13:11,607 - werkzeug - INFO - 127.0.0.1 - - [28/Jun/2021 00:13:11] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2021-06-28 00:13:12,101 - werkzeug - INFO - 127.0.0.1 - - [28/Jun/2021 00:13:12] "GET /static/style.css.map HTTP/1.1" 200 -
+2021-06-28 00:14:41,111 - werkzeug - INFO - 127.0.0.1 - - [28/Jun/2021 00:14:41] "GET /fitur-seleksi HTTP/1.1" 200 -
+2021-06-28 00:15:02,636 - werkzeug - INFO - 127.0.0.1 - - [28/Jun/2021 00:15:02] "GET /pengolahan-data HTTP/1.1" 200 -
+2021-06-28 00:15:13,155 - werkzeug - INFO - 127.0.0.1 - - [28/Jun/2021 00:15:13] "GET /pengolahan-data HTTP/1.1" 200 -
+2021-06-28 00:15:14,114 - werkzeug - INFO - 127.0.0.1 - - [28/Jun/2021 00:15:14] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2021-06-28 00:15:16,678 - werkzeug - INFO - 127.0.0.1 - - [28/Jun/2021 00:15:16] "GET /static/style.css.map HTTP/1.1" 200 -
+2021-06-28 00:19:23,660 - werkzeug - INFO - 127.0.0.1 - - [28/Jun/2021 00:19:23] "GET /fitur-seleksi HTTP/1.1" 200 -
+2021-06-28 00:19:24,406 - werkzeug - INFO - 127.0.0.1 - - [28/Jun/2021 00:19:24] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2021-06-28 00:19:24,686 - werkzeug - INFO - 127.0.0.1 - - [28/Jun/2021 00:19:24] "GET /static/style.css.map HTTP/1.1" 200 -
+2021-06-28 00:20:11,196 - pyswarms.discrete.binary - INFO - Optimize for 10 iters with {'c1': 2, 'c2': 2, 'w': 0.9, 'k': 3, 'p': 1}
+2021-06-28 00:20:19,188 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: 0.3520000000000001, best pos: [1 0 1 1 1 1 0 0 1 0 1 0 1 1 0 1 0 0 0 0 0 0 0 1 0 1 1 1 1 1 1 1 1 1 0 1 0
+ 0 1 1 0 0 0 0 1 1 1 1 1 0 0 1 1 1 1 1 1 1 1 1 0 0 0 0 1 0 0 0 1 1 0 1 0 1
+ 0 1 0 1 1 0 1 0 1 0 1 0 0 0 1 0 1 1 1 0 0 0 1 1 1 0 0 1 1 0 1 1 0 1 1 0 1
+ 1 0 0 1 1 1 1 0 1 1 1 0 1 1 1 1 1 1 1 0 0 0 0 0 1 1 1 1 1 1 1 1 0 1 1 0 0
+ 0 0 0 1 0 0 0 0 0 1 0 1 1 1 0 0 1 0 1 1 0 0 0 1 1 1 0 1 1 0 1 0 0 0 0 0 0
+ 0 0 0 0 0 1 0 1 1 1 0 0 1 1 1]
+2021-06-28 00:20:19,630 - werkzeug - INFO - 127.0.0.1 - - [28/Jun/2021 00:20:19] "POST /fitur-seleksi HTTP/1.1" 200 -
+2021-06-28 00:20:19,913 - werkzeug - INFO - 127.0.0.1 - - [28/Jun/2021 00:20:19] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2021-06-28 00:20:20,504 - werkzeug - INFO - 127.0.0.1 - - [28/Jun/2021 00:20:20] "GET /static/style.css.map HTTP/1.1" 200 -
+2021-06-28 00:21:17,628 - werkzeug - INFO - 127.0.0.1 - - [28/Jun/2021 00:21:17] "GET /fitur-seleksi HTTP/1.1" 200 -
+2021-06-28 00:21:17,735 - werkzeug - INFO - 127.0.0.1 - - [28/Jun/2021 00:21:17] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2021-06-28 00:21:30,610 - werkzeug - INFO - 127.0.0.1 - - [28/Jun/2021 00:21:30] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2021-06-28 00:21:31,163 - werkzeug - INFO - 127.0.0.1 - - [28/Jun/2021 00:21:31] "GET /static/style.css.map HTTP/1.1" 200 -
+2021-06-28 00:23:28,142 - werkzeug - INFO - 127.0.0.1 - - [28/Jun/2021 00:23:28] "GET /fitur-seleksi HTTP/1.1" 200 -
+2021-06-28 00:23:28,321 - werkzeug - INFO - 127.0.0.1 - - [28/Jun/2021 00:23:28] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2021-06-28 00:23:28,968 - werkzeug - INFO - 127.0.0.1 - - [28/Jun/2021 00:23:28] "GET /static/style.css.map HTTP/1.1" 200 -
+2021-06-28 00:24:38,153 - werkzeug - INFO - 127.0.0.1 - - [28/Jun/2021 00:24:38] "GET /training-evaluasi HTTP/1.1" 200 -
+2021-06-28 00:24:38,411 - werkzeug - INFO - 127.0.0.1 - - [28/Jun/2021 00:24:38] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2021-06-28 00:24:38,951 - werkzeug - INFO - 127.0.0.1 - - [28/Jun/2021 00:24:38] "GET /static/style.css.map HTTP/1.1" 200 -
+2021-06-28 00:25:10,615 - werkzeug - INFO - 127.0.0.1 - - [28/Jun/2021 00:25:10] "GET /prediksi-sentimen HTTP/1.1" 200 -
+2021-06-28 00:25:10,890 - werkzeug - INFO - 127.0.0.1 - - [28/Jun/2021 00:25:10] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2021-06-28 00:25:11,420 - werkzeug - INFO - 127.0.0.1 - - [28/Jun/2021 00:25:11] "GET /static/style.css.map HTTP/1.1" 200 -
+2021-06-28 00:25:33,882 - werkzeug - INFO - 127.0.0.1 - - [28/Jun/2021 00:25:33] "POST /prediksi-sentimen HTTP/1.1" 200 -
+2021-06-28 00:25:34,104 - werkzeug - INFO - 127.0.0.1 - - [28/Jun/2021 00:25:34] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2021-06-28 00:25:34,255 - werkzeug - INFO - 127.0.0.1 - - [28/Jun/2021 00:25:34] "[36mGET /static/sad.png HTTP/1.1[0m" 304 -
+2021-06-28 00:25:34,637 - werkzeug - INFO - 127.0.0.1 - - [28/Jun/2021 00:25:34] "GET /static/style.css.map HTTP/1.1" 200 -
+2021-06-28 00:25:41,065 - werkzeug - INFO - 127.0.0.1 - - [28/Jun/2021 00:25:41] "POST /prediksi-sentimen HTTP/1.1" 200 -
+2021-06-28 00:25:41,306 - werkzeug - INFO - 127.0.0.1 - - [28/Jun/2021 00:25:41] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2021-06-28 00:25:41,896 - werkzeug - INFO - 127.0.0.1 - - [28/Jun/2021 00:25:41] "[36mGET /static/sad.png HTTP/1.1[0m" 304 -
+2021-06-28 00:25:42,058 - werkzeug - INFO - 127.0.0.1 - - [28/Jun/2021 00:25:42] "GET /static/style.css.map HTTP/1.1" 200 -
+2021-06-28 00:26:09,617 - werkzeug - INFO - 127.0.0.1 - - [28/Jun/2021 00:26:09] "POST /prediksi-sentimen HTTP/1.1" 200 -
+2021-06-28 00:26:09,843 - werkzeug - INFO - 127.0.0.1 - - [28/Jun/2021 00:26:09] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2021-06-28 00:26:10,501 - werkzeug - INFO - 127.0.0.1 - - [28/Jun/2021 00:26:10] "[36mGET /static/happy.png HTTP/1.1[0m" 304 -
+2021-06-28 00:26:10,639 - werkzeug - INFO - 127.0.0.1 - - [28/Jun/2021 00:26:10] "GET /static/style.css.map HTTP/1.1" 200 -
+2021-06-28 00:31:07,761 - werkzeug - INFO - 127.0.0.1 - - [28/Jun/2021 00:31:07] "GET /pengolahan-data HTTP/1.1" 200 -
+2021-06-28 00:31:08,376 - werkzeug - INFO - 127.0.0.1 - - [28/Jun/2021 00:31:08] "[36mGET /static/style.css HTTP/1.1[0m" 304 -

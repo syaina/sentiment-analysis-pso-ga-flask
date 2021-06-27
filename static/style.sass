@@ -69,8 +69,13 @@ body
     table-layout: fixed
 
 .btn-dark-blue
-    background-color: lighten($primary, 10%)
-    color: $white
+    background-color: lighten($primary, 10%) !important
+    color: $white !important
+
+    &:hover
+        background-color: lighten($primary, 20%) !important
+        color: $white !important
+
 
 .img-container
     max-width: 50px

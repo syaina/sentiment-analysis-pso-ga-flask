@@ -79,8 +79,13 @@ body {
 }
 
 .btn-dark-blue {
-  background-color: #163952;
-  color: #ffffff;
+  background-color: #163952 !important;
+  color: #ffffff !important;
+}
+
+.btn-dark-blue:hover {
+  background-color: #20557b !important;
+  color: #ffffff !important;
 }
 
 .img-container {

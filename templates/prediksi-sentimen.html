@@ -34,29 +34,42 @@
                 </li> -->
               </ul>
           </div>
-          <div class="col pt-5 px-lg-5">
+          <div class="col-9 pt-5 px-lg-5">
             <div class="container mt-4">
                 <h4>Prediksi Sentimen</h4>
-                <form class="">
+                <form action="/prediksi-sentimen" method="POST">
                     <div class="row">
                         <div class="col-md-7 col-lg-7 form-group">
-                            <label class="my-2" for="sentimen">Masukkan Sentimen</label>
-                            <textarea class="form-control" name="sentimen" id="sentimen" rows="3"></textarea>
+                            <label class="my-2" for="sentiment">Masukkan Sentimen</label>
+                            <textarea class="form-control" name="sentiment" id="sentiment" rows="3">{{ sentiment }}</textarea>
                         </div>
 
                         <div class="col-md-3 col-lg-3 form-group">
                             <label class="my-2" for="model">Pilih Model</label>
                             <select class="form-control" name="model" id="model">
-                                <option value="svm">SVM</option>
-                                <option value="pso">SVM+PSO</option>
-                                <option value="ga">SVM+GA</option>
+                                {% if model == 'svm' %}
+                                    <option value="svm" selected>SVM</option>
+                                    <option value="pso">SVM+PSO</option>
+                                    <option value="ga">SVM+GA</option>
+                                {% elif model == 'pso' %}
+                                    <option value="svm">SVM</option>
+                                    <option value="pso" selected>SVM+PSO</option>
+                                    <option value="ga">SVM+GA</option>
+                                {% elif model == 'ga' %}
+                                    <option value="svm">SVM</option>
+                                    <option value="pso">SVM+PSO</option>
+                                    <option value="ga" selected>SVM+GA</option>
+                                {% else %}
+                                    <option value="svm">SVM</option>
+                                    <option value="pso">SVM+PSO</option>
+                                    <option value="ga">SVM+GA</option>
+                                {% endif %}
                             </select>
                         </div>
                     </div>
                     
-                    <div class="my-2">
-                        <button type="submit" class="btn btn-dark-blue mt-2">Prediksi</button>
-                    </div>
+                    <button type="submit" class="btn btn-dark-blue mt-3">Prediksi</button>
+                    
                 </form>
             </div>
 
@@ -89,11 +102,11 @@
                     <div class="div-flex">
                         <div>
                             <figure class="figure img-container">
-                                <img src="{{ url_for('static', filename='happy.png') }}" class="figure-img img-fluid rounded" alt="...">
+                                <img src="{{ url_for('static', filename='sceptic.png') }}" class="figure-img img-fluid rounded" alt="...">
                             </figure>
                         </div>
                         <div class="ps-3">
-                            <h5>Sentimen Positif</h5>
+                            <h5>Sentimen Netral</h5>
                         </div>                    
                     </div>
                     
