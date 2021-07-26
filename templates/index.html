@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Sentimen Analisis Kabinet Indonesia Maju</title>
+    <title>Prediksi Analisis Sentimen Kabinet Indonesia Maju</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-+0n0xVW2eSR5OomGNYDnhzAbDsOXxcvSN1TPprVMTNDbiYZCxYbOOl7+AMvyTG2x" crossorigin="anonymous">
     <link rel="stylesheet" href="/static/style.css">
     <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
@@ -33,7 +33,7 @@
           </div>
           <div class="col pt-5 px-lg-5">
             <div class="container mt-4">
-              <h3 class="text-center text-wrap h4-style fw-bold pb-4 ">Analisis Sentimen Kabinet Indonesia Maju dalam Menangani COVID-19 Menggunakan <em>Feature Selection Particle Swarm Optimization</em> dan <em>Genetic Algorithm</em></h3>
+              <h3 class="text-center text-wrap h4-style fw-bold pb-4 ">Prediksi Analisis Sentimen Kabinet Indonesia Maju dalam Menangani COVID-19 Menggunakan <em>Feature Selection Particle Swarm Optimization</em> dan <em>Genetic Algorithm</em></h3>
             </div>
 
             <div class="container mt-4 mb-5">
@@ -47,8 +47,33 @@
             <div class="container mb-5">
               <h4>Abstrak</h4>
               <p>
-                Kabinet Indonesia Maju adalah kabinet pemerintahan Indonesia periode 2019-2024 yang dipimpin oleh Presiden Joko Widodo (Jokowi) dan Wakil Presiden Ma’ruf Amin. Pada masa kabinet ini, Indonesia mengonfirmasi kasus pertama COVID-19 dan jumlah warga yang positif kian bertambah sampai sekarang. Berbagai upaya telah dilakukan oleh pemerintah Kabinet Indonesia Maju untuk menangani kasus ini. Masyarakat melalui media sosial Twitter banyak yang menyampaikan opininya terhadap kinerja pemerintah dalam menangani pandemi baik itu opini positif, negatif, maupun netral. Opini masyarakat ini dapat menjadi pertimbangan pemerintah dalam mengambil keputusan atau kebijakan selanjutnya dalam menangani COVID-19 di Indonesia. Untuk memprediksi opini masyarakat dibutuhkan model machine learning yang performa modelnya dapat dioptimalkan menggunakan fitur seleksi. Hal inilah yang menjadi motivasi pada penelitian ini untuk membangun sistem prediksi sentimen masyarakat terhadap Kabinet Indonesia Maju dalam menangani COVID-19 berbasis web menggunakan fitur seleksi <em>Particle Swarm Optimization</em> (PSO) dan <em>Genetic Algorithm</em> (GA).
-                <br><br>Metode penelitian yang digunakan dalam penelitian ini yaitu Waterfall yang memiliki 5 fase yaitu fase <em>communication</em>, fase <em>planning</em>, fase <em>modeling</em>, fase <em>construction</em>, dan fase <em>deployment</em>. Model untuk memprediksi sentimen menggunakan algoritma klasifikasi Support Vector Machine dengan fitur seleksi PSO dan GA. Dari penelitian ini didapatkan hasil akurasi SVM dengan PSO sebesar 90,67% dan f1 score 90,64%, sedangkan SVM dengan GA mencapai akurasi 90,80% dan f1 score 90,77%. Dari hasil tersebut dapat disimpulkan bahwa model dengan fitur seleksi GA lebih unggul dibandingkan PSO.
+                Pada masa pemerintahan Kabinet Indonesia Maju, Indonesia mengonfirmasi
+				kasus pertama COVID-19 yang jumlah positifnya semakin bertambah sampai
+				sekarang. Masyarakat melalui Twitter banyak menyampaikan opininya terhadap
+				kinerja pemerintah dalam menangani pandemi. Opini ini dapat menjadi
+				pertimbangan pemerintah dalam mengambil keputusan atau kebijakan selanjutnya
+				dalam menangani pandemi. Opini dapat diprediksi menggunakan teknologi
+				machine learning yang kinerja modelnya dapat dioptimalkan menggunakan fitur
+				seleksi. Oleh karena itu, penelitian ini bertujuan untuk membangun sistem
+				prediksi sentimen masyarakat terhadap Kabinet Indonesia Maju dalam menangani
+				COVID-19 menggunakan fitur seleksi Particle Swarm Optimization (PSO) dan
+				Genetic Algorithm (GA) berbasis web.
+                <br><br>
+				Metode penelitian yang digunakan dalam penelitian ini yaitu Waterfall yang
+				memiliki 5 fase yaitu fase communication, fase planning, fase modeling, fase
+				construction, dan fase deployment. Analisis sentimen dikategorikan menjadi
+				positif, negatif, dan netral. Sistem dirancang menggunakan UML yang terdiri dari
+				use case diagram, class diagram, activity diagram, dan sequence diagram. Sistem
+				diimplementasikan menggunakan bahasa pemrograman Python dan framework
+				Flask.
+				<br><br>
+				Dari penelitian ini didapatkan hasil akurasi SVM dengan fitur seleksi PSO
+				sebesar 90,67% dan f1 score 90,64% serta waktu latih 1,45 menit untuk 138
+				subset fitur, sedangkan SVM dengan GA menghasilkan akurasi sebesar 90,80%
+				dan f1 score 90,77% serta waktu latih 1,28 menit untuk 124 subset fitur dari
+				jumlah fitur awal sebanyak 200. Dari hasil tersebut dapat disimpulkan bahwa
+				model dengan fitur seleksi GA lebih unggul dibandingkan model dengan fitur
+				seleksi PSO.
                 <br><br>Kata Kunci : Analisis sentimen, fitur seleksi, <em>Particle Swarm Optimizaton, Genetic Algorithm, Support Vector Machine.</em> 
               </p>
             </div>
